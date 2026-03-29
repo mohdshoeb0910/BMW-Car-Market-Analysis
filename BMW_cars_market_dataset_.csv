@@ -1,0 +1,1000 @@
+Model,Year,Engine_size,Horsepower,Fuel_type,Transmission,Drivetrain,Mileage_KM,Fuel_Consumption,CO2_Emissions,Price_USD,Body_Type,Country_Sold
+X5,2016,4,272,diesel,Automatic,AWD,74655,8.9,196,"? 66,756.0",suv,Netherlands
+1 Series,2022,2.6,218,petrol,Automatic,FWD,23469,8.4,190,"? 26,867.0",hatchback,France
+X1,2012,2.2,240,petrol,Automatic,FWD,123273,7.8,174,"? 31,313.0",suv,Netherlands
+X5,2022,3.8,316,diesel,Unknown,AWD,33064,9.4,192,"? 81,594.0",suv,France
+7 Series,2023,3.1,294,petrol,Automatic,RWD,23926,0,204,"? 1,04,105.0",sedan,Spain
+X1,2010,1.9,190,diesel,Automatic,AWD,182375,5.7,112,"? 18,615.0",suv,France
+5 Series,2008,4.2,383,petrol,Automatic,AWD,274131,10.7,222,"? 27,173.0",sedan,USA
+1 Series,2017,1.7,230,petrol,Automatic,RWD,73728,7.3,148,"? 22,374.0",hatchback,Germany
+X1,2013,1.8,171,petrol,Automatic,AWD,170822,7.6,166,"? 24,335.0",suv,France
+i3,2012,0,156,electric,Automatic,RWD,166379,0,0,"? 19,182.0",hatchback,Spain
+1 Series,2016,3,276,petrol,Automatic,RWD,145961,9.4,0,"? 14,587.0",hatchback,UK
+3 Series,2019,2,169,hybrid,Automatic,AWD,66059,4.6,104,"? 37,881.0",sedan,UK
+X5,2021,3.2,267,diesel,Automatic,AWD,52609,8.4,197,"? 76,525.0",suv,USA
+X3,2024,3.2,233,diesel,Automatic,AWD,14470,0,164,"? 62,303.0",suv,Netherlands
+X3,2023,2.4,183,petrol,Unknown,RWD,32107,9.9,0,"? 54,498.0",suv,Turkey
+3 Series,2005,1.7,187,petrol,Manual,RWD,300000,0,168,"? 8,229.0",sedan,Italy
+1 Series,2015,1.7,221,hybrid,Manual,FWD,133510,4.8,110,"? 16,746.0",hatchback,Spain
+5 Series,2019,2.6,229,petrol,Automatic,RWD,103108,7.8,179,"? 49,589.0",sedan,France
+X1,2022,2.3,211,diesel,Automatic,AWD,22229,7.4,152,"? 36,065.0",suv,Spain
+i4,2022,0,461,electric,Automatic,RWD,27350,0,0,"? 93,406.0",coupe,Italy
+X5,2022,3.7,247,diesel,Automatic,AWD,31770,7.9,187,"? 81,968.0",suv,Spain
+5 Series,2010,2.4,263,diesel,Automatic,AWD,219901,0,144,"? 26,161.0",sedan,France
+X3,2009,3,274,diesel,Automatic,AWD,294167,7.3,146,"? 25,674.0",suv,Italy
+3 Series,2024,2.9,268,petrol,Manual,AWD,0,9,200,"? 46,422.0",sedan,Turkey
+3 Series,2023,3.1,267,petrol,Automatic,RWD,35833,9.3,217,"? 49,093.0",sedan,Germany
+1 Series,2019,1.6,167,petrol,Automatic,RWD,54980,0,142,"? 18,388.0",hatchback,Netherlands
+i4,2010,0,330,electric,Automatic,AWD,300000,0,0,"? 31,781.0",coupe,France
+3 Series,2019,1.7,169,diesel,Automatic,RWD,88339,6.3,135,"? 32,413.0",sedan,UK
+X5,2023,4.3,359,diesel,Automatic,AWD,4879,9.8,208,"? 86,658.0",suv,Netherlands
+X5,2005,4.2,302,petrol,Automatic,AWD,300000,10.4,215,"? 33,156.0",suv,France
+1 Series,2011,2.3,244,petrol,Manual,RWD,278651,7.8,184,"? 7,709.0",hatchback,USA
+i3,2006,0,141,electric,Automatic,RWD,300000,0,0,"? 12,210.0",hatchback,Netherlands
+1 Series,2015,2.3,244,hybrid,Automatic,FWD,216375,4.9,101,"? 17,089.0",hatchback,Netherlands
+5 Series,2011,4.2,373,petrol,Automatic,RWD,188618,11,244,"? 38,995.0",sedan,Turkey
+X7,2023,3.2,354,diesel,Automatic,AWD,0,8.4,199,"? 1,24,163.0",suv,Spain
+i7,2017,0,310,electric,Automatic,AWD,114304,0,0,"? 1,19,103.0",sedan,Germany
+X3,2021,3.3,246,diesel,Automatic,AWD,57536,7.9,187,"? 58,877.0",suv,Italy
+Z4,2014,2.9,249,petrol,Automatic,RWD,132593,9,188,"? 43,232.0",convertible,Germany
+X3,2024,2.9,269,hybrid,Automatic,AWD,22173,5.5,136,"? 58,267.0",suv,Turkey
+X1,2013,2.4,168,diesel,Automatic,AWD,182589,5.8,135,"? 25,251.0",suv,UK
+X7,2022,3.7,363,diesel,Automatic,AWD,20083,8.7,199,"? 1,12,573.0",suv,France
+1 Series,2012,2.2,207,diesel,Manual,RWD,154396,6.8,159,"? 17,196.0",hatchback,USA
+X1,2014,1.9,181,petrol,Automatic,FWD,159208,6.4,127,"? 25,310.0",suv,Netherlands
+1 Series,2009,1.5,192,petrol,Manual,FWD,88691,7.7,180,"? 16,469.0",hatchback,France
+7 Series,2019,5,450,petrol,Automatic,AWD,101913,12.5,286,"? 89,535.0",sedan,Spain
+X5,2014,4.2,401,diesel,Automatic,AWD,152975,9.1,204,"? 55,293.0",suv,Italy
+X1,2019,1.8,160,hybrid,Automatic,FWD,91197,3.8,82,"? 38,341.0",suv,Italy
+X5,2018,4.4,357,petrol,Automatic,AWD,93440,0,242,"? 72,531.0",suv,Netherlands
+3 Series,2023,2,145,hybrid,Automatic,AWD,15502,4.5,110,"? 40,011.0",sedan,Netherlands
+X5,2006,4.4,369,hybrid,Automatic,AWD,300000,7.1,159,"? 31,364.0",suv,Italy
+3 Series,2010,2.9,195,hybrid,Automatic,RWD,207327,5.2,122,"? 22,175.0",sedan,Germany
+X1,2009,1.8,182,petrol,Automatic,FWD,225817,8.1,168,"? 20,357.0",suv,USA
+3 Series,2012,1.9,230,diesel,Automatic,AWD,101751,6.6,144,"? 19,049.0",sedan,UK
+7 Series,2016,4.4,409,petrol,Automatic,RWD,178059,12.1,249,"? 87,622.0",sedan,USA
+3 Series,2009,2.5,293,petrol,Manual,AWD,250984,8.6,198,"? 18,557.0",sedan,Germany
+X7,2021,3.7,335,diesel,Automatic,AWD,37497,8.5,0,"? 1,03,058.0",suv,Netherlands
+i7,2013,0,403,electric,Automatic,AWD,211171,0,0,"? 1,13,907.0",sedan,USA
+X1,2024,1.7,205,diesel,Automatic,FWD,7583,5.6,126,"? 50,000.0",suv,USA
+X1,2021,2,205,petrol,Automatic,FWD,35448,7.6,173,"? 42,711.0",suv,France
+X5,2023,3.9,335,hybrid,Automatic,AWD,9725,6.8,153,"? 98,217.0",suv,USA
+5 Series,2024,3.6,329,diesel,Automatic,RWD,0,9.2,197,"? 72,089.0",sedan,Spain
+i3,2022,0,191,electric,Automatic,RWD,16375,0,0,"? 60,504.0",hatchback,France
+3 Series,2022,1.9,191,petrol,Automatic,AWD,51436,7.6,165,"? 40,983.0",sedan,Turkey
+1 Series,2009,2.7,251,petrol,Automatic,RWD,128644,8.7,186,"? 13,076.0",hatchback,Italy
+5 Series,2016,2.1,225,petrol,Automatic,RWD,88904,7.3,153,"? 40,768.0",sedan,USA
+3 Series,2018,1.7,195,diesel,Manual,RWD,81422,6.1,150,"? 32,314.0",sedan,France
+X5,2012,3.7,319,petrol,Automatic,AWD,244979,9.2,198,"? 56,519.0",suv,Netherlands
+3 Series,2020,2.3,221,petrol,Automatic,RWD,0,7.6,164,"? 42,025.0",sedan,France
+X1,2012,1.9,190,hybrid,Automatic,FWD,140636,4.7,107,"? 29,751.0",suv,Netherlands
+3 Series,2023,2.5,226,petrol,Manual,RWD,47227,7.8,163,"? 43,855.0",sedan,Italy
+1 Series,2014,1.9,224,petrol,Manual,FWD,86069,7,138,"? 20,742.0",hatchback,Italy
+5 Series,2024,3.9,314,petrol,Automatic,AWD,0,10.5,234,"? 66,190.0",sedan,Turkey
+7 Series,2019,4.9,340,petrol,Automatic,AWD,51521,12.7,272,"? 99,611.0",sedan,Germany
+3 Series,2018,3,266,diesel,Automatic,AWD,114679,8.6,202,"? 31,678.0",sedan,Turkey
+X5,2023,3.7,321,petrol,Automatic,AWD,210,10.3,245,"? 1,00,845.0",suv,France
+Z4,2011,2.6,244,petrol,Unknown,RWD,59371,9.1,198,"? 46,446.0",convertible,USA
+5 Series,2023,2.1,220,diesel,Automatic,AWD,11230,6.5,143,"? 61,039.0",sedan,France
+1 Series,2024,2.7,314,petrol,Manual,RWD,32528,8.9,189,"? 29,843.0",hatchback,Spain
+i4,2022,0,368,electric,Automatic,RWD,52810,0,0,"? 85,559.0",coupe,Netherlands
+i4,2008,0,440,electric,Automatic,RWD,290913,0,0,"? 41,126.0",coupe,Turkey
+X5,2017,3.6,306,hybrid,Automatic,AWD,50939,6.7,138,"? 67,339.0",suv,Germany
+X1,2024,2.5,276,petrol,Automatic,AWD,0,8.3,189,"? 62,183.0",suv,Germany
+5 Series,2008,3.1,311,diesel,Automatic,RWD,239410,8,180,"? 24,077.0",sedan,Netherlands
+3 Series,2017,2.6,239,petrol,Automatic,RWD,79159,0,186,"? 32,490.0",sedan,Turkey
+1 Series,2022,2.7,300,hybrid,Automatic,FWD,51785,6.1,137,"? 32,322.0",hatchback,UK
+3 Series,2011,2.8,181,diesel,Unknown,AWD,105069,8.2,184,"? 22,365.0",sedan,Germany
+5 Series,2013,3.3,253,diesel,Automatic,RWD,134248,8.3,172,"? 42,030.0",sedan,UK
+X5,2014,3.4,300,diesel,Automatic,AWD,185413,7.5,150,"? 57,296.0",suv,Germany
+X7,2016,3.1,271,hybrid,Automatic,AWD,50558,6,135,"? 91,783.0",suv,USA
+5 Series,2015,2.6,290,hybrid,Automatic,AWD,53241,5.6,127,"? 47,397.0",sedan,Turkey
+X7,2013,0,255,hybrid,Automatic,AWD,96949,5.6,113,"? 86,715.0",suv,Turkey
+3 Series,2005,3.5,317,diesel,Manual,AWD,278518,8.3,182,"? 15,655.0",sedan,Italy
+i7,2016,0,499,electric,Automatic,AWD,147522,0,0,"? 1,40,849.0",sedan,Spain
+i3,2022,0,187,electric,Automatic,RWD,27217,0,0,"? 61,653.0",hatchback,France
+3 Series,2023,3.2,202,hybrid,Automatic,AWD,5211,0,120,"? 48,754.0",sedan,Germany
+X7,2021,3.2,232,diesel,Automatic,AWD,44291,8.6,0,"? 1,21,574.0",suv,UK
+i4,2021,0,350,electric,Automatic,RWD,28916,0,0,"? 69,785.0",coupe,Turkey
+Z4,2013,2.8,199,petrol,Automatic,RWD,174331,8.7,178,"? 42,243.0",convertible,France
+1 Series,2021,1.9,145,diesel,Automatic,FWD,33060,6.1,156,"? 25,473.0",hatchback,USA
+X3,2011,3.2,204,petrol,Automatic,AWD,231139,8.8,195,"? 26,777.0",suv,USA
+3 Series,2022,2.7,252,petrol,Automatic,RWD,27150,8,171,"? 40,382.0",sedan,Turkey
+5 Series,2020,2.2,225,diesel,Automatic,AWD,61862,6.5,137,"? 59,506.0",sedan,UK
+X3,2020,2.1,170,diesel,Automatic,RWD,48204,6.2,162,"? 57,368.0",suv,France
+X1,2018,2.2,242,diesel,Automatic,AWD,63340,6.5,149,"? 40,921.0",suv,France
+X5,2006,3.8,321,petrol,Automatic,AWD,219042,10.4,233,"? 48,928.0",suv,USA
+3 Series,2013,2.1,213,hybrid,Automatic,RWD,185827,4.1,97,"? 24,812.0",sedan,Turkey
+X7,2013,3.8,346,petrol,Automatic,AWD,171989,10.3,240,"? 79,435.0",suv,UK
+X1,2005,1.7,187,hybrid,Automatic,FWD,267471,4.6,95,"? 10,617.0",suv,USA
+1 Series,2010,2.9,250,diesel,Manual,FWD,167211,7.2,149,"? 13,263.0",hatchback,France
+7 Series,2020,4.6,327,petrol,Automatic,AWD,82065,11,232,"? 1,00,640.0",sedan,USA
+i3,2005,0,195,electric,Automatic,RWD,186130,0,0,"? 20,727.0",hatchback,USA
+7 Series,2018,3.3,240,hybrid,Automatic,AWD,94668,6.3,138,"? 83,488.0",sedan,Turkey
+3 Series,2023,2.3,180,petrol,Automatic,AWD,10402,7.5,145,"? 41,753.0",sedan,Italy
+5 Series,2022,0,372,hybrid,Automatic,AWD,15739,6.5,144,"? 67,164.0",sedan,USA
+X1,2013,1.5,224,petrol,Automatic,FWD,180389,7.4,177,"? 29,785.0",suv,UK
+5 Series,2016,0,352,hybrid,Automatic,RWD,139921,6.6,149,"? 41,366.0",sedan,Spain
+i7,2005,0,370,electric,Automatic,AWD,300000,0,0,"? 58,522.0",sedan,France
+7 Series,2024,4.9,408,hybrid,Automatic,AWD,0,7,159,"? 1,15,086.0",sedan,Netherlands
+X3,2011,2.4,260,diesel,Automatic,AWD,256609,6.8,137,"? 25,766.0",suv,France
+X5,2009,4.1,330,diesel,Automatic,AWD,95577,8.8,181,"? 49,255.0",suv,Netherlands
+1 Series,2008,1.9,184,petrol,Manual,RWD,146984,7.7,150,"? 9,059.0",hatchback,UK
+5 Series,2021,4,345,petrol,Automatic,AWD,57188,11.1,252,"? 66,266.0",sedan,Germany
+X3,2023,2.1,214,petrol,Automatic,AWD,28168,8.1,183,"? 56,940.0",suv,France
+3 Series,2017,2.3,203,petrol,Automatic,RWD,139832,9.5,206,"? 26,446.0",sedan,Italy
+3 Series,2018,3,246,petrol,Automatic,RWD,81690,9.2,209,"? 35,572.0",sedan,Netherlands
+3 Series,2008,2.5,281,hybrid,Automatic,AWD,300000,4.7,97,"? 9,864.0",sedan,UK
+1 Series,2020,0,208,petrol,Manual,FWD,28878,7.8,167,"? 24,543.0",hatchback,UK
+X3,2015,2.8,250,petrol,Automatic,RWD,145934,9.6,209,"? 35,728.0",suv,Turkey
+3 Series,2021,2.6,219,hybrid,Automatic,AWD,35659,5,100,"? 36,475.0",sedan,Spain
+X5,2011,4.2,351,hybrid,Automatic,AWD,138543,7.3,153,"? 53,265.0",suv,Germany
+i4,2021,0,394,electric,Automatic,RWD,44766,0,0,"? 71,818.0",coupe,France
+5 Series,2010,3.2,268,petrol,Automatic,AWD,223145,9.9,226,"? 30,194.0",sedan,USA
+3 Series,2016,2.9,287,diesel,Automatic,AWD,149777,8.4,181,"? 33,478.0",sedan,Germany
+3 Series,2018,3.1,345,hybrid,Automatic,RWD,127994,6.2,139,"? 34,976.0",sedan,Netherlands
+5 Series,2013,2.6,172,petrol,Automatic,RWD,72775,8.6,198,"? 34,841.0",sedan,USA
+X5,2007,4.1,275,hybrid,Automatic,AWD,250313,6.3,137,"? 39,663.0",suv,Italy
+3 Series,2018,2.2,269,hybrid,Automatic,RWD,58826,5.2,137,"? 36,824.0",sedan,Netherlands
+i3,2021,0,193,electric,Automatic,RWD,36074,0,0,"? 55,756.0",hatchback,Turkey
+7 Series,2021,0,233,diesel,Automatic,AWD,38519,7.6,163,"? 1,03,275.0",sedan,France
+X3,2008,2.8,181,petrol,Automatic,RWD,190616,9.6,196,"? 27,533.0",suv,UK
+5 Series,2007,2.3,261,diesel,Automatic,RWD,210669,7.9,160,"? 22,549.0",sedan,UK
+7 Series,2007,0,425,electric,Automatic,AWD,287035,0,0,"? 45,384.0",sedan,USA
+i4,2024,0,307,electric,Automatic,AWD,0,0,0,"? 76,040.0",coupe,Spain
+X1,2015,2.4,213,hybrid,Automatic,AWD,155283,4.7,104,"? 30,863.0",suv,Germany
+X1,2017,0,241,hybrid,Automatic,AWD,112211,5,104,"? 41,591.0",suv,USA
+1 Series,2012,1.5,208,petrol,Automatic,RWD,210238,7.1,151,"? 8,000.0",hatchback,Spain
+Z4,2009,2.9,256,petrol,Automatic,RWD,300000,9.1,197,"? 27,814.0",convertible,Netherlands
+5 Series,2023,3,292,diesel,Automatic,RWD,22053,7.8,179,"? 70,354.0",sedan,Netherlands
+X1,2021,1.8,136,petrol,Automatic,FWD,82254,7.6,168,"? 39,163.0",suv,USA
+3 Series,2008,3.3,288,diesel,Automatic,RWD,185803,8.9,187,"? 18,292.0",sedan,UK
+Z4,2024,2.4,253,petrol,Automatic,RWD,0,9.1,203,"? 71,594.0",convertible,UK
+X7,2023,3.8,268,diesel,Automatic,AWD,11471,8.6,172,"? 1,27,284.0",suv,Germany
+3 Series,2019,3,321,diesel,Automatic,RWD,75127,7.6,167,"? 41,119.0",sedan,Netherlands
+X1,2015,2.3,188,hybrid,Automatic,FWD,148349,4.7,106,"? 27,551.0",suv,France
+1 Series,2018,2.7,214,diesel,Automatic,FWD,63474,7.2,159,"? 26,959.0",hatchback,Germany
+X5,2018,0,293,diesel,Automatic,AWD,120628,8.5,181,"? 75,616.0",suv,Turkey
+X7,2023,4,357,petrol,Automatic,AWD,20374,10.3,234,"? 1,44,280.0",suv,Germany
+Z4,2006,2.8,216,petrol,Automatic,RWD,276851,9,207,"? 22,605.0",convertible,Spain
+5 Series,2022,3.8,280,hybrid,Automatic,RWD,39998,6.4,137,"? 58,363.0",sedan,Italy
+X5,2011,3.2,278,petrol,Automatic,AWD,243559,9.3,190,"? 42,300.0",suv,Netherlands
+X5,2017,3.3,267,petrol,Unknown,AWD,68659,10.1,229,"? 64,286.0",suv,France
+7 Series,2012,3.4,316,diesel,Automatic,AWD,201911,8.5,186,"? 55,975.0",sedan,UK
+7 Series,2018,0,460,electric,Automatic,AWD,94628,0,0,"? 92,539.0",sedan,Netherlands
+3 Series,2013,2.4,209,diesel,Manual,RWD,101966,7.4,170,"? 29,443.0",sedan,USA
+X3,2024,3.5,339,hybrid,Automatic,RWD,5919,6.2,141,"? 78,629.0",suv,UK
+3 Series,2018,2.9,297,hybrid,Automatic,AWD,129869,5.3,131,"? 37,131.0",sedan,USA
+X5,2019,3.8,328,diesel,Automatic,AWD,65752,8.6,180,"? 78,788.0",suv,USA
+5 Series,2022,4.1,358,petrol,Automatic,AWD,36303,10.6,230,"? 60,866.0",sedan,Spain
+3 Series,2018,2.2,194,hybrid,Automatic,AWD,70591,4.9,118,"? 31,134.0",sedan,USA
+1 Series,2019,1.9,225,petrol,Automatic,RWD,64771,7.4,157,"? 22,814.0",hatchback,USA
+3 Series,2021,1.8,172,petrol,Automatic,AWD,62373,7.3,159,"? 36,029.0",sedan,Germany
+5 Series,2021,3.4,317,diesel,Automatic,RWD,48748,9.3,193,"? 50,066.0",sedan,France
+3 Series,2019,2.3,201,petrol,Automatic,RWD,55853,7.9,194,"? 32,505.0",sedan,France
+3 Series,2013,2.4,285,petrol,Automatic,AWD,131775,7.9,195,"? 29,180.0",sedan,Italy
+X3,2013,2.3,304,hybrid,Automatic,RWD,145576,5.5,116,"? 35,217.0",suv,Spain
+1 Series,2008,1.9,174,petrol,Automatic,RWD,182727,7.6,172,"? 8,740.0",hatchback,Spain
+3 Series,2020,2.1,194,petrol,Automatic,AWD,93084,8.5,179,"? 33,301.0",sedan,UK
+X5,2021,3.1,267,diesel,Automatic,AWD,48133,8.2,199,"? 78,114.0",suv,Netherlands
+X3,2014,0,182,hybrid,Automatic,RWD,154056,4.7,110,"? 29,590.0",suv,Germany
+X3,2024,3,340,diesel,Automatic,AWD,0,8.4,194,"? 62,642.0",suv,Turkey
+X5,2023,3.4,275,petrol,Automatic,AWD,4420,9.1,203,"? 1,00,463.0",suv,USA
+X3,2024,2,178,hybrid,Automatic,RWD,0,5.1,122,"? 64,130.0",suv,UK
+X7,2021,4,348,diesel,Automatic,AWD,37743,9.4,206,"? 1,01,149.0",suv,UK
+5 Series,2014,4.2,323,petrol,Automatic,AWD,94442,11.5,259,"? 34,443.0",sedan,Turkey
+X7,2008,3.8,350,hybrid,Automatic,AWD,129734,6.2,133,"? 60,278.0",suv,UK
+X3,2021,3.2,325,diesel,Automatic,AWD,54120,8.4,182,"? 55,442.0",suv,Netherlands
+5 Series,2021,3.4,376,diesel,Automatic,RWD,65288,7.9,157,"? 59,906.0",sedan,France
+1 Series,2019,0,246,petrol,Automatic,RWD,108585,9.6,201,"? 21,218.0",hatchback,Netherlands
+Z4,2017,2.2,248,petrol,Automatic,RWD,97437,7.8,186,"? 50,563.0",convertible,Spain
+3 Series,2017,3.1,315,diesel,Automatic,AWD,94883,7.3,150,"? 33,153.0",sedan,Turkey
+X3,2019,2.5,221,diesel,Automatic,AWD,73442,7,159,"? 42,483.0",suv,Spain
+i4,2013,0,587,electric,Automatic,RWD,197438,0,0,"? 55,530.0",coupe,Turkey
+1 Series,2021,1.6,127,hybrid,Automatic,FWD,56580,4.5,102,"? 22,923.0",hatchback,Turkey
+1 Series,2013,1.8,136,diesel,Manual,RWD,186096,6.1,137,"? 8,528.0",hatchback,USA
+3 Series,2007,2.2,220,petrol,Manual,AWD,84756,7.6,172,"? 19,045.0",sedan,Spain
+1 Series,2006,3,260,hybrid,Automatic,RWD,300000,5.4,118,"? 9,024.0",hatchback,UK
+X1,2015,1.9,140,diesel,Automatic,AWD,119767,6.7,141,"? 28,123.0",suv,USA
+X3,2005,0,220,hybrid,Automatic,RWD,241115,5.9,131,"? 23,523.0",suv,USA
+X7,2020,4.3,389,diesel,Automatic,AWD,47950,9.5,210,"? 1,24,593.0",suv,UK
+X1,2016,1.7,164,hybrid,Automatic,FWD,148769,4.3,80,"? 30,452.0",suv,Spain
+Z4,2012,2.3,173,petrol,Automatic,RWD,300000,7.1,169,"? 29,458.0",convertible,Italy
+X1,2021,2.4,259,diesel,Automatic,AWD,73879,7.6,177,"? 48,594.0",suv,USA
+3 Series,2021,1.7,171,petrol,Automatic,AWD,70478,6.7,149,"? 32,762.0",sedan,France
+i7,2023,0,458,electric,Automatic,AWD,18987,0,0,"? 1,72,939.0",sedan,Netherlands
+5 Series,2019,4.1,402,petrol,Unknown,AWD,108630,11.2,234,"? 55,731.0",sedan,Spain
+X3,2011,3.4,271,petrol,Automatic,RWD,219341,9.1,210,"? 33,133.0",suv,Spain
+5 Series,2015,2.6,301,petrol,Automatic,AWD,92678,9.3,211,"? 50,588.0",sedan,UK
+X3,2012,2.3,224,petrol,Automatic,RWD,180378,9.4,198,"? 32,898.0",suv,UK
+3 Series,2016,2.5,284,petrol,Manual,AWD,87475,8.7,199,"? 31,861.0",sedan,UK
+7 Series,2023,4.1,389,petrol,Automatic,RWD,16022,10.8,0,"? 1,02,724.0",sedan,France
+X7,2024,3.9,327,diesel,Unknown,AWD,0,9.7,216,"? 1,35,854.0",suv,France
+3 Series,2024,3,279,petrol,Automatic,RWD,7479,9.5,207,"? 44,956.0",sedan,Netherlands
+X5,2017,3.5,310,petrol,Automatic,AWD,126688,10.3,209,"? 72,543.0",suv,France
+i4,2024,0,361,electric,Automatic,AWD,5129,0,0,"? 97,855.0",coupe,Germany
+i3,2024,0,179,electric,Automatic,RWD,0,0,0,"? 55,829.0",hatchback,Turkey
+5 Series,2005,0,276,petrol,Automatic,RWD,300000,9.1,201,"? 23,644.0",sedan,Turkey
+5 Series,2020,4,327,diesel,Automatic,RWD,46112,9.9,212,"? 60,614.0",sedan,Spain
+5 Series,2016,2.1,185,hybrid,Automatic,AWD,122686,4.7,99,"? 37,554.0",sedan,Spain
+5 Series,2015,3.4,330,hybrid,Automatic,RWD,181570,0,120,"? 41,392.0",sedan,Netherlands
+X1,2015,0,236,hybrid,Automatic,FWD,81813,4.4,113,"? 39,225.0",suv,France
+Z4,2024,2.3,210,petrol,Automatic,RWD,0,8.4,194,"? 73,005.0",convertible,Spain
+X1,2015,2.3,219,diesel,Automatic,AWD,161149,6.8,158,"? 30,498.0",suv,France
+Z4,2014,2.9,236,petrol,Automatic,RWD,169619,0,195,"? 46,488.0",convertible,Italy
+X1,2008,1.7,153,diesel,Automatic,FWD,138345,6.2,120,"? 17,094.0",suv,UK
+i7,2024,0,620,electric,Automatic,RWD,6754,0,0,"? 2,00,620.0",sedan,USA
+3 Series,2018,1.7,222,hybrid,Manual,RWD,79742,4.3,92,"? 38,850.0",sedan,USA
+i7,2016,0,528,electric,Automatic,AWD,125583,0,0,"? 1,31,898.0",sedan,Germany
+X1,2011,1.7,168,petrol,Automatic,FWD,159555,7.6,170,"? 26,174.0",suv,Netherlands
+5 Series,2023,3.9,371,diesel,Automatic,RWD,30335,9.4,207,"? 65,858.0",sedan,Spain
+X7,2016,3.2,259,diesel,Automatic,AWD,205024,7.9,174,"? 85,077.0",suv,Netherlands
+i4,2015,0,276,electric,Automatic,RWD,85284,0,0,"? 57,271.0",coupe,Turkey
+X3,2016,2,191,hybrid,Automatic,RWD,90715,4.4,91,"? 43,309.0",suv,France
+3 Series,2008,3.1,254,diesel,Manual,RWD,300000,9,211,"? 17,492.0",sedan,USA
+X5,2023,3.5,339,diesel,Automatic,AWD,13617,8.7,195,"? 90,627.0",suv,Italy
+i7,2010,0,523,electric,Unknown,RWD,166291,0,0,"? 91,633.0",sedan,USA
+X7,2015,3.7,313,diesel,Automatic,AWD,148144,8.8,197,"? 85,496.0",suv,France
+i3,2007,0,164,electric,Automatic,RWD,209103,0,0,"? 17,688.0",hatchback,Italy
+7 Series,2024,5,393,petrol,Automatic,AWD,0,12.7,287,"? 1,14,752.0",sedan,Spain
+3 Series,2007,1.8,136,hybrid,Automatic,RWD,285739,4.6,103,"? 6,274.0",sedan,Netherlands
+1 Series,2016,1.8,158,petrol,Automatic,RWD,85767,7.1,163,"? 17,154.0",hatchback,Turkey
+3 Series,2018,3.5,284,diesel,Automatic,RWD,83334,8.6,188,"? 32,138.0",sedan,Turkey
+Z4,2005,2.2,227,petrol,Manual,RWD,219695,8.3,195,"? 22,583.0",convertible,Netherlands
+X7,2020,3.6,349,hybrid,Automatic,AWD,71810,6.1,125,"? 1,06,813.0",suv,Italy
+X3,2009,2.2,201,petrol,Automatic,AWD,201348,8.6,197,"? 30,152.0",suv,France
+X1,2021,2.5,284,diesel,Automatic,AWD,55771,7.9,171,"? 50,227.0",suv,Germany
+X7,2023,4.2,373,hybrid,Automatic,AWD,15409,6.6,149,"? 1,23,725.0",suv,France
+Z4,2007,2,208,petrol,Automatic,RWD,300000,7.4,153,"? 23,307.0",convertible,France
+i3,2020,0,160,electric,Automatic,RWD,56810,0,0,"? 54,678.0",hatchback,Netherlands
+3 Series,2016,1.8,180,petrol,Manual,RWD,85757,8.5,191,"? 31,980.0",sedan,UK
+3 Series,2021,2.7,225,petrol,Automatic,RWD,20148,8.3,194,"? 38,093.0",sedan,Italy
+X3,2023,3.3,300,diesel,Automatic,RWD,28447,7.2,161,"? 69,124.0",suv,UK
+3 Series,2019,2.3,169,petrol,Automatic,RWD,77585,0,190,"? 30,224.0",sedan,USA
+5 Series,2023,2.3,260,hybrid,Automatic,AWD,8817,4.9,111,"? 60,258.0",sedan,UK
+X7,2016,3.6,296,diesel,Automatic,AWD,194598,8.8,190,"? 67,640.0",suv,Turkey
+X1,2012,2.3,158,petrol,Automatic,FWD,167184,7.4,180,"? 22,111.0",suv,France
+3 Series,2013,2.5,203,petrol,Automatic,RWD,162693,7.9,162,"? 26,913.0",sedan,France
+3 Series,2009,2.2,240,hybrid,Manual,AWD,181319,5,113,"? 18,846.0",sedan,Netherlands
+5 Series,2020,3.2,226,hybrid,Automatic,RWD,74054,6.4,148,"? 49,463.0",sedan,Italy
+1 Series,2020,1.5,214,petrol,Automatic,RWD,39425,7.5,170,"? 27,568.0",hatchback,Turkey
+X3,2013,2.2,299,petrol,Automatic,AWD,128133,7.9,190,"? 39,058.0",suv,Turkey
+i3,2020,0,181,electric,Automatic,RWD,68786,0,0,"? 50,664.0",hatchback,Netherlands
+i3,2024,0,186,electric,Automatic,RWD,0,0,0,"? 59,212.0",hatchback,USA
+3 Series,2018,2.4,231,hybrid,Automatic,AWD,82223,4.5,89,"? 31,553.0",sedan,Turkey
+5 Series,2020,2.5,183,petrol,Automatic,RWD,64256,0,177,"? 50,762.0",sedan,Netherlands
+7 Series,2023,4.8,367,diesel,Automatic,AWD,3689,10.4,245,"? 99,168.0",sedan,Turkey
+1 Series,2013,2.5,239,diesel,Manual,RWD,202137,7.2,173,"? 11,060.0",hatchback,Turkey
+Z4,2015,0,254,petrol,Automatic,RWD,128655,9.1,214,"? 46,846.0",convertible,Netherlands
+3 Series,2019,3.3,303,petrol,Automatic,AWD,92238,9.7,218,"? 44,311.0",sedan,UK
+7 Series,2014,3.7,221,diesel,Automatic,AWD,137652,8.8,184,"? 63,997.0",sedan,USA
+X3,2023,2.3,232,hybrid,Automatic,RWD,0,4.6,97,"? 54,744.0",suv,UK
+5 Series,2020,3.4,333,diesel,Automatic,AWD,53680,8.5,179,"? 67,269.0",sedan,Spain
+i3,2019,0,200,electric,Automatic,RWD,107245,0,0,"? 49,507.0",hatchback,Netherlands
+X1,2022,0,199,petrol,Automatic,FWD,15650,7.5,151,"? 52,220.0",suv,USA
+7 Series,2005,4,368,petrol,Automatic,RWD,221366,10.9,246,"? 43,214.0",sedan,Spain
+X3,2021,3.2,294,petrol,Automatic,RWD,14142,9.1,200,"? 71,189.0",suv,Germany
+3 Series,2021,3.1,277,petrol,Manual,RWD,55405,9.3,204,"? 36,784.0",sedan,Turkey
+7 Series,2019,3.5,367,diesel,Automatic,RWD,63319,9.1,191,"? 81,802.0",sedan,Spain
+3 Series,2020,3.5,369,hybrid,Automatic,RWD,68926,6.5,135,"? 40,926.0",sedan,Spain
+X3,2023,2.2,234,diesel,Automatic,RWD,12796,6.8,160,"? 61,717.0",suv,USA
+5 Series,2023,2.8,210,diesel,Automatic,RWD,16640,7.3,160,"? 57,871.0",sedan,Spain
+Z4,2007,2.6,293,petrol,Automatic,RWD,300000,8.6,187,"? 27,487.0",convertible,USA
+3 Series,2015,0,200,hybrid,Automatic,AWD,88345,4.9,116,"? 30,627.0",sedan,USA
+3 Series,2022,3.3,283,petrol,Automatic,AWD,42097,9.2,203,"? 40,869.0",sedan,UK
+3 Series,2010,2.3,239,hybrid,Manual,RWD,179161,4.8,103,"? 23,324.0",sedan,Netherlands
+3 Series,2013,2.6,264,diesel,Automatic,AWD,62776,7.4,164,"? 22,152.0",sedan,Turkey
+X1,2019,2.4,167,petrol,Automatic,FWD,77219,8.8,191,"? 29,057.0",suv,Italy
+7 Series,2018,3.2,303,petrol,Automatic,AWD,75038,8.7,198,"? 95,023.0",sedan,USA
+X1,2013,1.8,157,hybrid,Automatic,AWD,88290,5.2,115,"? 22,482.0",suv,Italy
+X7,2016,3.4,310,hybrid,Automatic,AWD,96626,6.4,116,"? 80,281.0",suv,Turkey
+X3,2022,2.2,228,petrol,Automatic,RWD,26545,8.6,175,"? 49,745.0",suv,USA
+5 Series,2016,3.3,306,diesel,Automatic,AWD,42918,8.5,180,"? 45,924.0",sedan,Germany
+3 Series,2022,2.7,222,hybrid,Automatic,AWD,13874,5.2,91,"? 39,494.0",sedan,Turkey
+X3,2016,2.5,177,diesel,Automatic,RWD,110307,7.3,144,"? 32,922.0",suv,Turkey
+3 Series,2006,1.6,171,petrol,Automatic,RWD,276315,6.7,155,"? 8,561.0",sedan,UK
+Z4,2024,2.4,271,petrol,Automatic,RWD,4985,8.6,197,"? 71,723.0",convertible,Italy
+7 Series,2012,4.8,413,petrol,Automatic,AWD,107614,12.2,266,"? 68,350.0",sedan,Germany
+3 Series,2012,3.3,312,hybrid,Automatic,AWD,190115,6.6,150,"? 22,407.0",sedan,Turkey
+3 Series,2022,2.5,244,petrol,Automatic,RWD,30264,7.8,167,"? 43,818.0",sedan,Netherlands
+5 Series,2023,3.2,257,petrol,Automatic,AWD,0,10.4,228,"? 63,321.0",sedan,Italy
+3 Series,2009,3.1,245,hybrid,Manual,AWD,162982,6.5,150,"? 22,290.0",sedan,Italy
+X5,2014,3.9,438,petrol,Automatic,AWD,104272,11.2,246,"? 69,686.0",suv,Germany
+X3,2023,2.2,223,diesel,Automatic,RWD,1618,6.3,124,"? 69,631.0",suv,France
+5 Series,2014,2.1,249,diesel,Automatic,AWD,188177,5.9,142,"? 39,663.0",sedan,Italy
+X3,2016,3.2,276,diesel,Automatic,RWD,92257,7.8,170,"? 53,666.0",suv,Germany
+X3,2020,2.4,278,petrol,Automatic,RWD,96032,7.8,176,"? 59,299.0",suv,USA
+5 Series,2024,3,244,petrol,Automatic,RWD,13300,8.9,201,"? 65,133.0",sedan,Germany
+X7,2013,4.1,314,diesel,Automatic,AWD,138230,10.1,227,"? 80,622.0",suv,Turkey
+i4,2022,0,419,electric,Automatic,RWD,58869,0,0,"? 79,564.0",coupe,UK
+X7,2022,4,272,petrol,Automatic,AWD,40616,9.7,208,"? 1,16,970.0",suv,Turkey
+3 Series,2007,2.9,226,petrol,Manual,AWD,292672,9.1,202,"? 7,481.0",sedan,Spain
+3 Series,2016,3.5,298,diesel,Manual,AWD,128018,8.5,183,"? 32,083.0",sedan,Italy
+3 Series,2024,2.2,225,petrol,Automatic,AWD,10768,8.1,175,"? 43,991.0",sedan,USA
+i7,2010,0,386,electric,Automatic,AWD,294006,0,0,"? 1,00,190.0",sedan,Netherlands
+5 Series,2022,3.2,310,hybrid,Automatic,RWD,32879,6.3,124,"? 69,759.0",sedan,Netherlands
+X3,2020,2.4,186,petrol,Automatic,RWD,62579,8.2,180,"? 60,087.0",suv,UK
+3 Series,2020,1.9,172,hybrid,Automatic,RWD,68637,4.1,97,"? 32,661.0",sedan,USA
+X5,2021,3.8,346,diesel,Automatic,AWD,35238,9.3,213,"? 82,941.0",suv,Turkey
+X1,2007,2.4,245,petrol,Automatic,AWD,228665,7.9,166,"? 18,548.0",suv,Turkey
+X3,2007,2.7,224,diesel,Automatic,AWD,72387,7.2,165,"? 27,855.0",suv,Spain
+X3,2012,2.1,164,petrol,Unknown,AWD,194348,8.1,178,"? 34,843.0",suv,Turkey
+5 Series,2013,2.5,207,diesel,Automatic,AWD,140141,7.4,165,"? 35,842.0",sedan,Netherlands
+X3,2023,2.8,261,hybrid,Automatic,RWD,23897,5.1,112,"? 59,130.0",suv,Spain
+X5,2023,3.8,343,diesel,Automatic,AWD,0,9.7,236,"? 78,668.0",suv,Germany
+i3,2022,0,196,electric,Automatic,RWD,39132,0,0,"? 54,444.0",hatchback,Germany
+X5,2007,4.2,319,petrol,Automatic,AWD,262075,11.4,254,"? 36,996.0",suv,Germany
+X3,2023,3.1,269,petrol,Automatic,RWD,18209,9.6,219,"? 59,012.0",suv,USA
+X3,2009,2.7,190,petrol,Automatic,RWD,300000,6.3,145,"? 19,100.0",suv,Germany
+3 Series,2006,2.6,177,hybrid,Manual,AWD,300000,4.5,85,"? 8,389.0",sedan,Netherlands
+3 Series,2021,2.8,262,hybrid,Automatic,AWD,44865,5.8,127,"? 39,701.0",sedan,Spain
+1 Series,2020,2.3,229,diesel,Automatic,FWD,73178,6.8,142,"? 28,729.0",hatchback,France
+5 Series,2014,3.6,298,hybrid,Automatic,RWD,63542,6.6,151,"? 41,943.0",sedan,Germany
+3 Series,2022,3.2,276,hybrid,Automatic,AWD,38273,6,133,"? 49,338.0",sedan,UK
+X5,2009,3.3,292,diesel,Automatic,AWD,180009,8.5,193,"? 39,682.0",suv,Turkey
+X1,2006,1.8,200,petrol,Automatic,AWD,300000,7.1,158,"? 11,122.0",suv,Netherlands
+1 Series,2009,2.2,210,hybrid,Automatic,FWD,263844,5.3,139,"? 3,243.0",hatchback,Turkey
+X5,2013,3.8,301,hybrid,Automatic,AWD,246569,0,137,"? 50,362.0",suv,Germany
+X7,2020,3.8,315,petrol,Automatic,AWD,41670,10.3,222,"? 1,17,556.0",suv,USA
+X1,2007,2.2,167,diesel,Automatic,AWD,216688,7,163,"? 12,859.0",suv,Germany
+i7,2024,0,401,electric,Automatic,RWD,0,0,0,"? 1,81,312.0",sedan,Italy
+X1,2008,2.2,185,diesel,Automatic,FWD,295876,7.3,172,"? 11,070.0",suv,Turkey
+X3,2023,3.3,297,diesel,Automatic,AWD,28145,8.3,171,"? 71,978.0",suv,Spain
+X7,2023,3.2,353,hybrid,Automatic,AWD,16219,6.3,154,"? 1,17,504.0",suv,France
+1 Series,2022,3,251,hybrid,Automatic,FWD,42586,5.7,118,"? 28,907.0",hatchback,Italy
+X3,2015,2.6,302,petrol,Automatic,RWD,230324,8.2,172,"? 34,462.0",suv,Germany
+1 Series,2023,1.8,195,petrol,Automatic,FWD,16282,6,143,"? 30,762.0",hatchback,UK
+X1,2019,0,234,diesel,Automatic,FWD,57311,6.6,133,"? 38,540.0",suv,Italy
+X5,2015,3.2,330,petrol,Automatic,AWD,130410,9.4,202,"? 64,703.0",suv,Turkey
+X5,2012,3.5,231,petrol,Automatic,AWD,232717,9.6,203,"? 45,772.0",suv,UK
+X5,2022,4,290,diesel,Automatic,AWD,33235,8.4,191,"? 94,544.0",suv,Germany
+X3,2016,2.5,256,diesel,Automatic,AWD,139019,7,162,"? 44,512.0",suv,Turkey
+X3,2011,3.1,275,petrol,Automatic,AWD,100215,9.8,215,"? 34,089.0",suv,France
+X1,2018,1.7,160,hybrid,Automatic,AWD,96899,4.2,85,"? 33,205.0",suv,Spain
+3 Series,2016,2,228,diesel,Manual,RWD,91749,7.6,159,"? 31,525.0",sedan,Turkey
+X3,2022,2.8,264,hybrid,Automatic,RWD,20758,5.7,135,"? 61,254.0",suv,USA
+i3,2023,0,173,electric,Automatic,RWD,41667,0,0,"? 60,024.0",hatchback,France
+1 Series,2016,1.8,219,hybrid,Manual,RWD,77119,4.7,115,"? 18,142.0",hatchback,Netherlands
+i3,2021,0,222,electric,Automatic,RWD,73341,0,0,"? 54,227.0",hatchback,Netherlands
+X5,2008,4,402,petrol,Automatic,AWD,300000,10.7,226,"? 42,341.0",suv,Germany
+5 Series,2023,2.3,158,diesel,Automatic,RWD,30126,6.9,145,"? 62,578.0",sedan,USA
+Z4,2023,2.9,323,petrol,Automatic,RWD,11905,9.7,201,"? 70,585.0",convertible,Germany
+i4,2017,0,459,electric,Automatic,AWD,80553,0,0,"? 76,135.0",coupe,Spain
+1 Series,2024,2.6,249,diesel,Automatic,RWD,0,7.8,165,"? 29,945.0",hatchback,Netherlands
+3 Series,2019,1.9,256,hybrid,Automatic,RWD,67599,4.2,83,"? 37,088.0",sedan,USA
+3 Series,2005,3,295,petrol,Automatic,AWD,300000,9.3,195,"? 13,853.0",sedan,USA
+X1,2009,1.9,140,hybrid,Automatic,FWD,298457,4.4,96,"? 9,050.0",suv,Spain
+X5,2017,4,343,hybrid,Unknown,AWD,71422,7.2,159,"? 69,956.0",suv,Netherlands
+5 Series,2018,4.1,420,diesel,Automatic,AWD,95830,8.9,201,"? 60,127.0",sedan,Netherlands
+Z4,2021,3,261,petrol,Automatic,RWD,40350,9.4,230,"? 68,168.0",convertible,UK
+X3,2023,2.5,279,hybrid,Automatic,AWD,3774,5.5,114,"? 65,535.0",suv,Turkey
+X5,2020,3.4,326,hybrid,Automatic,AWD,86978,5.8,137,"? 73,657.0",suv,USA
+1 Series,2016,1.7,163,diesel,Automatic,RWD,103869,6.5,146,"? 14,564.0",hatchback,Turkey
+3 Series,2015,3.2,297,petrol,Automatic,RWD,167099,9,204,"? 28,594.0",sedan,France
+X3,2016,2.7,252,petrol,Automatic,AWD,80139,8,167,"? 48,911.0",suv,Italy
+X5,2016,4.1,390,petrol,Automatic,AWD,99703,11.1,242,"? 56,490.0",suv,Germany
+X5,2012,3.7,379,petrol,Automatic,AWD,267485,10.2,238,"? 53,542.0",suv,USA
+X3,2011,3,260,petrol,Automatic,AWD,184731,9.6,213,"? 41,149.0",suv,Germany
+X3,2008,2,192,petrol,Automatic,RWD,188257,8.8,200,"? 24,445.0",suv,Netherlands
+3 Series,2023,2.1,237,hybrid,Automatic,AWD,38017,5.8,134,"? 45,871.0",sedan,France
+X3,2023,3.2,244,diesel,Automatic,AWD,15999,8.2,190,"? 46,875.0",suv,Turkey
+X5,2018,3.3,346,hybrid,Automatic,AWD,67779,5.7,115,"? 78,809.0",suv,USA
+X7,2021,4.2,354,petrol,Automatic,AWD,27244,10.9,234,"? 1,24,891.0",suv,UK
+Z4,2022,2.1,172,petrol,Automatic,RWD,11748,7.5,176,"? 59,004.0",convertible,UK
+7 Series,2020,3.5,300,petrol,Automatic,RWD,63551,10.1,216,"? 85,946.0",sedan,Turkey
+X7,2017,3.5,327,diesel,Automatic,AWD,120659,8,175,"? 1,03,564.0",suv,Netherlands
+1 Series,2020,2.2,193,petrol,Automatic,FWD,57420,8.3,176,"? 24,703.0",hatchback,Turkey
+Z4,2021,2.5,261,petrol,Automatic,RWD,61103,8.5,182,"? 71,954.0",convertible,USA
+X3,2024,2.1,255,petrol,Automatic,RWD,0,8.7,175,"? 70,236.0",suv,Netherlands
+i7,2023,0,516,electric,Automatic,RWD,0,0,0,"? 2,06,875.0",sedan,UK
+7 Series,2009,3.5,267,petrol,Automatic,RWD,300000,9.7,217,"? 52,374.0",sedan,Germany
+X1,2016,1.7,179,petrol,Unknown,FWD,98228,7.8,185,"? 30,806.0",suv,Spain
+X3,2019,2.5,215,hybrid,Automatic,AWD,57537,5.5,119,"? 55,070.0",suv,USA
+X5,2022,3.5,257,hybrid,Automatic,AWD,33920,6.6,150,"? 77,949.0",suv,Turkey
+3 Series,2012,2.2,172,diesel,Manual,AWD,274122,6.6,142,"? 14,101.0",sedan,Netherlands
+5 Series,2021,3.7,357,petrol,Automatic,AWD,28906,11.2,257,"? 61,088.0",sedan,Spain
+3 Series,2018,0,161,diesel,Automatic,RWD,99513,6.1,138,"? 29,824.0",sedan,Netherlands
+i4,2024,0,309,electric,Automatic,RWD,0,0,0,"? 93,786.0",coupe,Italy
+X7,2021,3.5,346,petrol,Automatic,AWD,0,9.9,205,"? 1,26,455.0",suv,Germany
+1 Series,2021,1.9,219,petrol,Automatic,FWD,49946,6.3,111,"? 28,069.0",hatchback,UK
+3 Series,2011,1.9,193,diesel,Manual,RWD,286382,6.3,143,"? 10,726.0",sedan,Turkey
+i7,2012,0,391,electric,Automatic,RWD,153745,0,0,"? 96,823.0",sedan,France
+5 Series,2022,4.3,313,hybrid,Automatic,AWD,37364,6.6,146,"? 57,085.0",sedan,France
+3 Series,2019,3,351,petrol,Automatic,RWD,116071,8.6,182,"? 39,458.0",sedan,USA
+3 Series,2018,2.1,181,hybrid,Automatic,RWD,61917,4.8,107,"? 33,173.0",sedan,Italy
+5 Series,2005,4.3,429,hybrid,Automatic,RWD,300000,7.7,186,"? 27,187.0",sedan,UK
+3 Series,2021,2.4,279,hybrid,Automatic,RWD,49597,6,142,"? 46,296.0",sedan,Germany
+Z4,2024,2.2,198,petrol,Automatic,RWD,0,8.3,173,"? 70,469.0",convertible,Spain
+X5,2020,3,286,hybrid,Automatic,AWD,23019,5.4,117,"? 80,101.0",suv,UK
+X3,2018,2.8,308,diesel,Automatic,RWD,93496,7.8,173,"? 52,005.0",suv,Turkey
+1 Series,2010,2.4,231,petrol,Automatic,FWD,235223,9,186,"? 10,579.0",hatchback,UK
+5 Series,2011,2.7,318,hybrid,Automatic,AWD,226044,6.4,136,"? 32,780.0",sedan,Turkey
+i7,2023,0,507,electric,Automatic,RWD,27540,0,0,"? 1,81,462.0",sedan,Italy
+Z4,2022,2.5,232,petrol,Automatic,RWD,16139,9,198,"? 65,255.0",convertible,UK
+X3,2019,3.1,297,petrol,Automatic,RWD,69157,9.7,217,"? 56,022.0",suv,Germany
+X3,2024,2.1,228,diesel,Automatic,AWD,0,6.9,151,"? 66,007.0",suv,Netherlands
+7 Series,2019,0,366,electric,Automatic,AWD,154163,0,0,"? 99,970.0",sedan,France
+5 Series,2016,2.5,240,diesel,Automatic,RWD,153161,7.4,164,"? 47,877.0",sedan,UK
+X1,2014,1.8,183,hybrid,Automatic,FWD,128725,5,122,"? 33,003.0",suv,Germany
+X7,2011,3.1,245,petrol,Automatic,AWD,155157,8.7,201,"? 71,557.0",suv,Spain
+5 Series,2015,4.3,332,petrol,Automatic,AWD,157654,11.1,241,"? 43,446.0",sedan,Germany
+5 Series,2024,3.3,289,petrol,Automatic,AWD,0,9.3,206,"? 70,137.0",sedan,Netherlands
+X7,2011,4.2,418,hybrid,Automatic,AWD,191239,6.6,149,"? 61,041.0",suv,Italy
+X5,2009,3,259,petrol,Automatic,AWD,300000,10,211,"? 39,959.0",suv,Spain
+X1,2012,1.8,206,petrol,Automatic,FWD,106629,7,149,"? 26,339.0",suv,Italy
+3 Series,2010,2.7,228,hybrid,Automatic,AWD,154072,5.5,113,"? 24,071.0",sedan,UK
+5 Series,2005,2.4,239,hybrid,Automatic,RWD,219186,4.8,120,"? 17,083.0",sedan,Turkey
+X5,2024,3.9,379,hybrid,Automatic,AWD,8075,6.5,134,"? 94,101.0",suv,Netherlands
+X1,2010,1.7,202,petrol,Automatic,FWD,198240,7.8,155,"? 19,660.0",suv,Spain
+i4,2015,0,311,electric,Automatic,AWD,88676,0,0,"? 49,240.0",coupe,Spain
+X3,2023,0,180,petrol,Automatic,AWD,5367,7.7,153,"? 66,807.0",suv,Netherlands
+i4,2007,0,228,electric,Automatic,RWD,159177,0,0,"? 32,628.0",coupe,Germany
+5 Series,2010,3.5,273,diesel,Automatic,AWD,300000,7.6,162,"? 22,350.0",sedan,Italy
+X3,2023,3.5,313,diesel,Automatic,RWD,19876,8.7,178,"? 71,567.0",suv,Germany
+5 Series,2021,2.3,195,diesel,Automatic,RWD,50504,6.7,152,"? 54,323.0",sedan,Spain
+X3,2015,2,212,diesel,Automatic,RWD,103989,0,148,"? 43,566.0",suv,UK
+X5,2022,3.2,262,hybrid,Automatic,AWD,39015,6,123,"? 81,438.0",suv,Netherlands
+i4,2015,0,417,electric,Automatic,RWD,112305,0,0,"? 64,462.0",coupe,Italy
+X1,2020,1.9,191,diesel,Automatic,FWD,55431,5.6,116,"? 33,966.0",suv,Turkey
+X1,2010,2,145,petrol,Automatic,FWD,242870,7.4,176,"? 15,709.0",suv,Spain
+1 Series,2015,2.1,161,hybrid,Manual,FWD,90770,4.6,96,"? 18,707.0",hatchback,Germany
+X7,2023,4.1,401,diesel,Automatic,AWD,17545,9.7,208,"? 1,10,252.0",suv,Turkey
+X1,2014,2.4,228,diesel,Automatic,AWD,145130,7.7,169,"? 30,800.0",suv,UK
+3 Series,2023,2.9,267,diesel,Automatic,RWD,0,7.8,162,"? 48,762.0",sedan,UK
+X5,2012,4.2,351,hybrid,Automatic,AWD,172283,6.7,133,"? 51,541.0",suv,Spain
+X5,2012,3.8,267,diesel,Automatic,AWD,166140,9.3,188,"? 53,529.0",suv,Italy
+3 Series,2024,2.9,279,hybrid,Automatic,RWD,0,4.9,81,"? 47,114.0",sedan,Italy
+5 Series,2011,0,261,petrol,Automatic,AWD,176168,9.5,203,"? 37,511.0",sedan,Netherlands
+X1,2005,1.7,165,diesel,Automatic,AWD,266840,6.1,117,"? 7,797.0",suv,Spain
+5 Series,2020,2.9,242,petrol,Automatic,RWD,75305,9.4,202,"? 54,208.0",sedan,Netherlands
+5 Series,2019,4.3,336,diesel,Automatic,AWD,64640,10,219,"? 49,106.0",sedan,Turkey
+1 Series,2024,2.5,230,petrol,Automatic,RWD,18081,8,186,"? 33,073.0",hatchback,Netherlands
+3 Series,2011,2.8,232,petrol,Automatic,RWD,75973,9.1,198,"? 23,459.0",sedan,Italy
+5 Series,2012,4.3,370,diesel,Automatic,RWD,191515,9.4,205,"? 35,874.0",sedan,France
+X5,2023,4.2,429,petrol,Automatic,AWD,21173,11,239,"? 99,633.0",suv,Netherlands
+i4,2008,0,270,electric,Automatic,AWD,292127,0,0,"? 22,209.0",coupe,Turkey
+X5,2018,4.1,325,diesel,Automatic,AWD,31785,8.8,198,"? 74,561.0",suv,USA
+i4,2016,0,506,electric,Automatic,AWD,199783,0,0,"? 59,864.0",coupe,Spain
+7 Series,2017,3.2,319,diesel,Automatic,AWD,99488,8.5,193,"? 92,100.0",sedan,France
+i4,2019,0,258,electric,Unknown,AWD,52149,0,0,"? 67,192.0",coupe,Spain
+i7,2016,0,517,electric,Automatic,RWD,99849,0,0,"? 99,994.0",sedan,Turkey
+X3,2009,3.4,277,diesel,Automatic,AWD,300000,7.8,179,"? 18,095.0",suv,France
+3 Series,2021,3,291,petrol,Manual,AWD,8988,9.1,194,"? 46,617.0",sedan,UK
+X5,2015,4,401,hybrid,Automatic,AWD,93577,7.1,150,"? 68,590.0",suv,Italy
+X1,2006,1.8,207,diesel,Automatic,AWD,268452,6.9,139,"? 12,057.0",suv,Turkey
+X3,2024,3.3,253,petrol,Automatic,AWD,0,9.9,210,"? 73,935.0",suv,USA
+X5,2019,3.1,284,petrol,Automatic,AWD,64927,9.6,213,"? 76,431.0",suv,Italy
+X3,2022,3.3,245,petrol,Automatic,AWD,36814,9.8,227,"? 44,963.0",suv,Netherlands
+5 Series,2019,4.3,331,petrol,Automatic,RWD,102018,11.9,255,"? 55,036.0",sedan,Turkey
+5 Series,2009,2.4,247,hybrid,Unknown,AWD,248883,4.5,98,"? 22,175.0",sedan,UK
+i7,2015,0,569,electric,Automatic,RWD,180113,0,0,"? 1,35,181.0",sedan,Germany
+X5,2012,3.8,371,diesel,Automatic,AWD,213314,8.8,197,"? 51,687.0",suv,Netherlands
+X5,2013,3.6,399,diesel,Automatic,AWD,116845,9.4,196,"? 60,773.0",suv,UK
+X5,2024,3,225,petrol,Automatic,AWD,0,8.8,193,"? 94,608.0",suv,France
+X3,2015,3.3,317,petrol,Automatic,AWD,104126,10.2,220,"? 46,317.0",suv,Turkey
+3 Series,2020,2.7,279,petrol,Automatic,RWD,40678,8.4,191,"? 36,724.0",sedan,USA
+5 Series,2022,3.5,296,petrol,Automatic,AWD,41607,10.2,223,"? 61,060.0",sedan,Germany
+i3,2017,0,151,electric,Automatic,RWD,153491,0,0,"? 36,291.0",hatchback,Spain
+X3,2018,3.3,285,petrol,Unknown,AWD,106758,9.8,201,"? 46,674.0",suv,UK
+7 Series,2020,3.1,316,hybrid,Automatic,AWD,47427,5.5,121,"? 94,482.0",sedan,Turkey
+X3,2017,3,291,hybrid,Automatic,RWD,69291,5.3,107,"? 54,029.0",suv,Germany
+3 Series,2024,1.6,188,diesel,Automatic,AWD,940,6,129,"? 40,112.0",sedan,Spain
+7 Series,2020,3.2,251,diesel,Automatic,AWD,85800,7.8,170,"? 98,200.0",sedan,Spain
+X3,2017,2.6,243,diesel,Automatic,AWD,132972,7.2,164,"? 41,031.0",suv,Italy
+3 Series,2022,3.1,264,hybrid,Automatic,AWD,46609,5.4,126,"? 41,449.0",sedan,Spain
+1 Series,2021,1.7,218,diesel,Automatic,RWD,32483,6.5,130,"? 31,869.0",hatchback,UK
+3 Series,2019,3.4,322,petrol,Automatic,RWD,41351,9.6,216,"? 34,200.0",sedan,Germany
+3 Series,2011,1.6,127,hybrid,Automatic,AWD,116292,3.6,88,"? 19,027.0",sedan,Italy
+5 Series,2023,2.6,305,hybrid,Automatic,RWD,25488,5.1,110,"? 65,027.0",sedan,Spain
+1 Series,2012,2.4,222,hybrid,Automatic,RWD,204575,4.4,96,"? 11,355.0",hatchback,France
+X3,2020,2.6,228,diesel,Automatic,RWD,53891,6.8,157,"? 55,510.0",suv,Netherlands
+3 Series,2019,2.7,273,petrol,Automatic,AWD,86106,9.4,205,"? 37,291.0",sedan,Spain
+1 Series,2019,2.2,217,diesel,Automatic,RWD,57132,7,162,"? 27,543.0",hatchback,USA
+i7,2009,0,351,electric,Automatic,AWD,300000,0,0,"? 81,279.0",sedan,France
+7 Series,2020,4.8,421,diesel,Automatic,AWD,61446,9.8,216,"? 1,12,389.0",sedan,Spain
+3 Series,2009,2.1,214,diesel,Automatic,AWD,300000,6.6,139,"? 13,734.0",sedan,USA
+X1,2016,1.6,179,petrol,Automatic,AWD,54344,7.3,158,"? 36,619.0",suv,Germany
+X1,2021,2,214,petrol,Automatic,AWD,26708,7.9,170,"? 46,411.0",suv,Turkey
+X3,2005,3,281,hybrid,Automatic,AWD,300000,6,124,"? 19,636.0",suv,Spain
+5 Series,2010,2.5,283,petrol,Automatic,RWD,140565,9.2,201,"? 38,894.0",sedan,Italy
+X3,2010,2.7,265,petrol,Automatic,RWD,123915,9.1,184,"? 31,905.0",suv,Netherlands
+Z4,2014,2.7,274,petrol,Automatic,RWD,106230,8.9,194,"? 46,584.0",convertible,France
+Z4,2022,3,333,petrol,Automatic,RWD,13803,8.9,215,"? 80,504.0",convertible,Netherlands
+Z4,2021,3,263,petrol,Automatic,RWD,42800,9.7,208,"? 57,972.0",convertible,UK
+3 Series,2019,3.1,251,hybrid,Automatic,RWD,39841,5.9,127,"? 39,119.0",sedan,Italy
+3 Series,2015,2.7,271,hybrid,Manual,AWD,149150,5.6,129,"? 31,240.0",sedan,Netherlands
+X5,2024,3.9,326,petrol,Automatic,AWD,0,9.8,218,"? 91,297.0",suv,USA
+5 Series,2010,2.5,229,petrol,Automatic,RWD,268815,9.2,199,"? 25,476.0",sedan,Netherlands
+5 Series,2018,4.1,300,hybrid,Automatic,RWD,88693,6.7,141,"? 44,502.0",sedan,Netherlands
+i4,2022,0,445,electric,Automatic,RWD,27860,0,0,"? 79,722.0",coupe,UK
+7 Series,2010,3.6,312,petrol,Automatic,RWD,118627,8.9,208,"? 64,737.0",sedan,Turkey
+X1,2014,2.4,204,diesel,Automatic,FWD,165144,6.7,160,"? 28,701.0",suv,Netherlands
+X7,2019,3.4,258,hybrid,Automatic,AWD,83390,6,136,"? 86,420.0",suv,Spain
+Z4,2012,2.5,247,petrol,Manual,RWD,269089,9.2,207,"? 29,954.0",convertible,Germany
+X5,2022,3.4,364,petrol,Automatic,AWD,40175,11,238,"? 76,609.0",suv,UK
+5 Series,2023,3.3,229,diesel,Automatic,RWD,6055,7.6,180,"? 67,350.0",sedan,Germany
+i3,2022,0,212,electric,Unknown,RWD,38085,0,0,"? 57,381.0",hatchback,Italy
+X3,2020,2.5,288,hybrid,Automatic,RWD,39378,6,132,"? 51,909.0",suv,UK
+1 Series,2008,2.7,233,diesel,Automatic,RWD,222666,8.2,185,"? 10,433.0",hatchback,Turkey
+3 Series,2016,3.1,273,diesel,Automatic,AWD,75427,8.7,193,"? 36,199.0",sedan,France
+i4,2012,0,386,electric,Automatic,RWD,155230,0,0,"? 52,650.0",coupe,UK
+3 Series,2016,2,165,petrol,Manual,AWD,190746,6.8,162,"? 24,398.0",sedan,USA
+3 Series,2015,2.2,259,hybrid,Automatic,RWD,135561,4.2,102,"? 27,284.0",sedan,France
+X5,2006,0,288,diesel,Automatic,AWD,161364,7.5,155,"? 42,952.0",suv,France
+3 Series,2018,2.2,154,petrol,Automatic,RWD,69219,6.5,139,"? 30,643.0",sedan,USA
+1 Series,2021,3,365,hybrid,Automatic,FWD,0,6.4,132,"? 33,718.0",hatchback,Germany
+i3,2009,0,191,electric,Automatic,RWD,289846,0,0,"? 17,326.0",hatchback,Italy
+5 Series,2019,4,388,petrol,Automatic,RWD,69039,11.5,243,"? 58,521.0",sedan,UK
+3 Series,2021,3.2,268,petrol,Automatic,RWD,33638,9.9,226,"? 45,899.0",sedan,France
+3 Series,2017,1.8,223,petrol,Automatic,AWD,64906,7.4,157,"? 37,345.0",sedan,France
+5 Series,2012,2,238,hybrid,Automatic,AWD,76931,4.3,92,"? 37,094.0",sedan,Netherlands
+1 Series,2021,1.9,189,petrol,Automatic,FWD,47807,8.2,173,"? 27,937.0",hatchback,Italy
+X3,2014,2,221,petrol,Automatic,RWD,193985,7.4,159,"? 31,945.0",suv,France
+i7,2020,0,567,electric,Automatic,RWD,65726,0,0,"? 1,96,667.0",sedan,France
+1 Series,2020,2.4,267,petrol,Unknown,FWD,74656,8.8,186,"? 27,849.0",hatchback,Netherlands
+Z4,2018,2.2,156,petrol,Automatic,RWD,90340,8.8,187,"? 50,733.0",convertible,Turkey
+3 Series,2020,2.3,278,hybrid,Automatic,AWD,44033,4.8,103,"? 38,420.0",sedan,France
+X3,2022,2.7,322,petrol,Automatic,AWD,43395,8.7,188,"? 67,698.0",suv,Italy
+5 Series,2018,2.6,172,hybrid,Automatic,AWD,102749,5.4,125,"? 46,488.0",sedan,Netherlands
+3 Series,2024,2,243,diesel,Automatic,AWD,0,6.1,134,"? 50,687.0",sedan,Italy
+5 Series,2024,3.8,325,petrol,Automatic,AWD,0,9.9,222,"? 71,136.0",sedan,Spain
+3 Series,2020,2.8,254,petrol,Automatic,AWD,51714,9.1,185,"? 41,061.0",sedan,Italy
+5 Series,2013,4.2,355,hybrid,Automatic,RWD,156743,6.7,136,"? 51,226.0",sedan,France
+5 Series,2023,2.6,192,diesel,Automatic,RWD,44894,7.6,170,"? 58,050.0",sedan,Germany
+X3,2008,2,161,diesel,Automatic,RWD,249276,6.2,132,"? 24,757.0",suv,Turkey
+3 Series,2020,2.4,184,diesel,Manual,RWD,46776,8.3,177,"? 35,955.0",sedan,Italy
+X5,2009,0,253,hybrid,Automatic,AWD,237016,5.8,135,"? 46,541.0",suv,Spain
+X1,2018,1.9,227,diesel,Automatic,AWD,68282,7.7,161,"? 33,788.0",suv,Turkey
+X7,2020,3.3,237,hybrid,Automatic,AWD,46285,5.7,112,"? 1,09,444.0",suv,Turkey
+3 Series,2023,1.8,145,diesel,Automatic,AWD,1040,5.6,115,"? 42,122.0",sedan,France
+5 Series,2015,2.6,192,diesel,Automatic,AWD,73379,7.8,176,"? 39,050.0",sedan,Italy
+7 Series,2015,4.1,335,hybrid,Automatic,AWD,154521,6.8,165,"? 72,198.0",sedan,Germany
+X1,2016,1.7,133,petrol,Automatic,FWD,222000,7.1,151,"? 24,839.0",suv,Germany
+X7,2005,3.4,239,diesel,Automatic,AWD,300000,9.1,210,"? 52,858.0",suv,France
+5 Series,2015,2.4,191,hybrid,Automatic,AWD,197198,4.8,80,"? 34,697.0",sedan,Turkey
+X7,2009,4.3,368,diesel,Automatic,AWD,136034,8.9,187,"? 70,314.0",suv,Italy
+X1,2012,2.2,194,hybrid,Automatic,FWD,215649,4.6,97,"? 20,091.0",suv,Germany
+X3,2012,3,314,petrol,Automatic,AWD,165239,9.2,184,"? 38,750.0",suv,USA
+1 Series,2019,2.5,282,diesel,Automatic,RWD,73879,7.6,168,"? 20,085.0",hatchback,UK
+Z4,2022,2.9,246,petrol,Automatic,RWD,14124,9.4,214,"? 61,070.0",convertible,USA
+3 Series,2017,3.2,339,petrol,Automatic,AWD,127271,8.9,199,"? 38,043.0",sedan,USA
+3 Series,2008,2.8,262,hybrid,Automatic,AWD,230381,5.3,107,"? 23,082.0",sedan,Germany
+3 Series,2014,3.2,236,hybrid,Manual,RWD,231720,6,152,"? 20,466.0",sedan,UK
+X1,2022,2.3,254,diesel,Automatic,AWD,49072,6.5,128,"? 48,532.0",suv,Turkey
+i3,2012,0,209,electric,Automatic,RWD,118736,0,0,"? 34,738.0",hatchback,Netherlands
+i7,2020,0,431,electric,Automatic,AWD,79517,0,0,"? 1,74,135.0",sedan,Germany
+3 Series,2022,2.7,241,petrol,Manual,AWD,12925,9.1,201,"? 45,728.0",sedan,Netherlands
+5 Series,2016,2.3,178,hybrid,Automatic,RWD,119892,4.4,122,"? 43,909.0",sedan,Turkey
+Z4,2008,2.1,223,petrol,Manual,RWD,300000,8.4,174,"? 22,899.0",convertible,Turkey
+5 Series,2016,2.4,163,petrol,Automatic,RWD,112267,8.9,206,"? 39,657.0",sedan,USA
+1 Series,2010,2.9,329,hybrid,Automatic,RWD,280095,5.9,136,"? 10,431.0",hatchback,Turkey
+X5,2009,4.3,373,diesel,Automatic,AWD,121240,10,222,"? 58,727.0",suv,Turkey
+X5,2005,4,325,diesel,Automatic,AWD,161882,9.2,201,"? 40,867.0",suv,Germany
+5 Series,2024,2.3,208,petrol,Automatic,RWD,6707,8.1,176,"? 67,952.0",sedan,Italy
+X3,2022,3,287,hybrid,Automatic,AWD,20589,5.4,121,"? 68,436.0",suv,USA
+X5,2024,3.9,357,hybrid,Automatic,AWD,9906,6,123,"? 92,292.0",suv,Netherlands
+7 Series,2014,3.4,272,petrol,Automatic,RWD,153991,9.4,207,"? 72,025.0",sedan,Turkey
+X5,2020,3.1,275,hybrid,Automatic,AWD,67387,5.7,122,"? 67,237.0",suv,UK
+5 Series,2014,3.2,304,petrol,Automatic,RWD,198293,9.4,218,"? 31,972.0",sedan,Netherlands
+5 Series,2023,2.5,255,hybrid,Automatic,AWD,0,5.3,116,"? 61,466.0",sedan,Spain
+3 Series,2011,1.8,159,petrol,Manual,AWD,186734,8.1,177,"? 15,593.0",sedan,Italy
+3 Series,2015,1.6,149,diesel,Manual,RWD,97803,5.6,123,"? 26,139.0",sedan,Italy
+X5,2007,3.5,303,diesel,Automatic,AWD,275018,8.5,189,"? 36,399.0",suv,Germany
+5 Series,2014,2.1,200,diesel,Automatic,AWD,176960,6.3,132,"? 42,867.0",sedan,Germany
+i4,2007,0,213,electric,Automatic,AWD,206600,0,0,"? 30,792.0",coupe,Spain
+3 Series,2021,2.5,253,hybrid,Automatic,AWD,35599,4.6,94,"? 42,873.0",sedan,Spain
+5 Series,2007,3.8,344,diesel,Automatic,AWD,167232,9.2,194,"? 29,890.0",sedan,France
+X3,2024,3.1,330,petrol,Automatic,RWD,0,9.4,223,"? 71,408.0",suv,UK
+Z4,2015,2.8,283,petrol,Manual,RWD,173737,10.7,230,"? 39,404.0",convertible,Netherlands
+X1,2015,2.3,216,petrol,Automatic,FWD,91190,8.7,187,"? 33,542.0",suv,France
+1 Series,2011,0,257,hybrid,Automatic,FWD,199686,4.6,85,"? 12,126.0",hatchback,France
+5 Series,2019,3.4,304,hybrid,Automatic,AWD,71367,6.3,146,"? 47,250.0",sedan,USA
+X1,2019,1.7,162,petrol,Automatic,FWD,47676,7.2,0,"? 41,301.0",suv,Italy
+3 Series,2011,2.4,224,hybrid,Automatic,RWD,177115,4.7,103,"? 21,148.0",sedan,Germany
+7 Series,2013,5,370,hybrid,Automatic,RWD,209673,6.7,163,"? 73,512.0",sedan,Germany
+3 Series,2015,3.4,314,hybrid,Manual,AWD,215023,5.8,127,"? 24,497.0",sedan,UK
+X1,2016,1.7,186,diesel,Automatic,FWD,148055,6,130,"? 23,379.0",suv,Turkey
+7 Series,2023,0,491,electric,Automatic,AWD,22154,0,0,"? 1,25,542.0",sedan,Netherlands
+X7,2018,3.2,267,diesel,Automatic,AWD,71924,8.6,187,"? 92,005.0",suv,Netherlands
+i4,2020,0,444,electric,Automatic,AWD,89035,0,0,"? 97,335.0",coupe,Italy
+X1,2010,1.7,223,hybrid,Automatic,AWD,117400,4.3,102,"? 29,432.0",suv,USA
+Z4,2014,2.5,258,petrol,Manual,RWD,144230,9.1,211,"? 48,360.0",convertible,Netherlands
+X5,2016,3.1,252,petrol,Automatic,AWD,133778,8.6,197,"? 66,400.0",suv,UK
+7 Series,2022,3.5,286,petrol,Automatic,RWD,21608,8.7,191,"? 1,06,502.0",sedan,Netherlands
+3 Series,2023,2.7,248,petrol,Automatic,RWD,0,8.5,207,"? 46,553.0",sedan,USA
+3 Series,2013,3.5,308,hybrid,Manual,AWD,161899,5.9,135,"? 24,582.0",sedan,Turkey
+3 Series,2021,3.2,289,petrol,Automatic,RWD,42644,9.6,218,"? 36,461.0",sedan,USA
+3 Series,2008,2,164,hybrid,Manual,RWD,299009,5,110,"? 7,590.0",sedan,Netherlands
+X7,2023,4.4,340,hybrid,Automatic,AWD,15986,6.7,154,"? 1,17,383.0",suv,France
+X1,2024,2.1,189,hybrid,Automatic,AWD,5587,5.7,128,"? 48,106.0",suv,Germany
+3 Series,2024,3.5,286,petrol,Automatic,RWD,0,9.5,200,"? 56,246.0",sedan,Netherlands
+X7,2006,4.1,341,diesel,Automatic,AWD,300000,9.6,209,"? 58,166.0",suv,Netherlands
+i3,2023,0,192,electric,Automatic,RWD,0,0,0,"? 61,768.0",hatchback,Italy
+X3,2010,2.5,239,diesel,Automatic,RWD,275729,8,157,"? 21,735.0",suv,France
+i4,2022,0,331,electric,Automatic,AWD,16061,0,0,"? 70,874.0",coupe,Turkey
+X3,2013,0,202,diesel,Automatic,RWD,155635,6.7,156,"? 38,157.0",suv,Germany
+7 Series,2013,4.3,309,diesel,Automatic,RWD,234439,9.4,208,"? 56,848.0",sedan,Turkey
+X3,2012,3.2,329,diesel,Automatic,AWD,133960,8.4,183,"? 37,494.0",suv,Turkey
+X3,2017,3.1,268,diesel,Automatic,RWD,66432,0,178,"? 48,689.0",suv,Turkey
+3 Series,2017,2.2,209,petrol,Manual,RWD,123769,8.4,172,"? 30,611.0",sedan,Netherlands
+X3,2024,3.1,287,diesel,Automatic,RWD,3826,7.8,172,"? 72,479.0",suv,Italy
+X3,2020,3.4,253,petrol,Automatic,AWD,8964,9.7,206,"? 64,871.0",suv,France
+5 Series,2012,3.7,316,diesel,Automatic,AWD,183710,8.8,200,"? 34,853.0",sedan,France
+3 Series,2015,3.4,317,hybrid,Automatic,AWD,97680,5.7,134,"? 32,421.0",sedan,Turkey
+X3,2015,3.3,309,petrol,Automatic,AWD,142435,9.9,225,"? 42,738.0",suv,Turkey
+3 Series,2024,2.1,202,petrol,Automatic,AWD,1798,7.2,147,"? 43,108.0",sedan,Spain
+X5,2009,3.9,268,diesel,Automatic,AWD,205755,9.7,208,"? 41,696.0",suv,Netherlands
+i4,2024,0,368,electric,Unknown,AWD,4184,0,0,"? 1,12,939.0",coupe,USA
+X1,2016,2.3,164,petrol,Automatic,AWD,126358,7.9,190,"? 30,992.0",suv,Spain
+5 Series,2021,2.5,236,petrol,Automatic,AWD,31250,8.3,171,"? 56,051.0",sedan,Turkey
+3 Series,2023,3.4,335,diesel,Manual,RWD,40042,8.5,193,"? 47,885.0",sedan,Turkey
+X1,2012,2.2,196,hybrid,Automatic,AWD,194349,4.7,101,"? 21,127.0",suv,Netherlands
+7 Series,2015,4,294,petrol,Automatic,RWD,164633,10.9,230,"? 75,564.0",sedan,France
+3 Series,2008,2.1,199,hybrid,Manual,AWD,101959,4.6,115,"? 20,064.0",sedan,Germany
+3 Series,2006,1.8,173,petrol,Manual,RWD,300000,8.1,173,"? 10,832.0",sedan,USA
+X7,2019,4.2,284,hybrid,Automatic,AWD,71052,7.3,166,"? 1,07,802.0",suv,Germany
+1 Series,2019,1.6,184,petrol,Automatic,FWD,77828,7.5,172,"? 22,423.0",hatchback,UK
+X3,2010,2.2,249,petrol,Automatic,RWD,182878,0,188,"? 33,516.0",suv,Italy
+X5,2015,3.1,334,diesel,Automatic,AWD,209459,8.1,169,"? 47,959.0",suv,Spain
+7 Series,2021,3.3,313,hybrid,Automatic,AWD,41003,5.7,116,"? 1,06,160.0",sedan,USA
+1 Series,2012,2.2,206,hybrid,Automatic,RWD,149115,5.1,114,"? 11,422.0",hatchback,Netherlands
+3 Series,2009,2.4,268,petrol,Manual,RWD,216324,9.6,219,"? 15,485.0",sedan,Italy
+X1,2023,2.4,185,hybrid,Automatic,AWD,14489,4.6,104,"? 45,863.0",suv,Turkey
+X1,2010,0,217,hybrid,Automatic,FWD,227388,3.9,90,"? 25,992.0",suv,UK
+i4,2019,0,368,electric,Automatic,AWD,86517,0,0,"? 76,183.0",coupe,France
+X5,2017,3.1,252,petrol,Automatic,AWD,137975,9.1,197,"? 58,744.0",suv,Spain
+X1,2023,2.1,227,petrol,Automatic,FWD,26175,8,183,"? 49,842.0",suv,Netherlands
+5 Series,2020,2.5,250,petrol,Automatic,RWD,47616,8.8,186,"? 57,706.0",sedan,Italy
+X7,2021,4.4,382,diesel,Automatic,AWD,38153,10,235,"? 1,28,518.0",suv,USA
+X1,2024,2.3,226,petrol,Automatic,AWD,0,9.5,217,"? 49,880.0",suv,UK
+1 Series,2021,2.8,267,hybrid,Automatic,RWD,35542,5.7,138,"? 31,910.0",hatchback,UK
+X7,2024,3.1,237,hybrid,Automatic,AWD,0,5.5,121,"? 1,28,997.0",suv,UK
+X7,2021,3.5,332,petrol,Automatic,AWD,67010,10.2,230,"? 1,10,324.0",suv,France
+X1,2024,1.7,255,hybrid,Automatic,AWD,5452,4.5,103,"? 40,435.0",suv,UK
+X3,2023,2.5,187,diesel,Automatic,RWD,8140,6.1,140,"? 54,158.0",suv,Germany
+1 Series,2023,2.8,299,diesel,Manual,RWD,18900,8.3,181,"? 35,852.0",hatchback,UK
+7 Series,2022,3.7,347,petrol,Automatic,AWD,38948,10.1,221,"? 97,763.0",sedan,Spain
+Z4,2018,2.4,236,petrol,Automatic,RWD,73905,7.7,180,"? 46,342.0",convertible,France
+5 Series,2011,3.3,269,petrol,Automatic,AWD,189259,9.6,0,"? 30,953.0",sedan,Netherlands
+7 Series,2013,0,303,petrol,Automatic,AWD,96169,10.4,227,"? 67,618.0",sedan,Germany
+3 Series,2021,3.2,272,diesel,Automatic,RWD,63962,7.7,0,"? 47,132.0",sedan,USA
+X3,2017,2.2,174,petrol,Automatic,RWD,96530,7.4,157,"? 39,232.0",suv,USA
+5 Series,2022,3,286,diesel,Automatic,AWD,35558,7.6,176,"? 64,608.0",sedan,Italy
+X3,2020,2.7,287,diesel,Automatic,AWD,54024,7.8,171,"? 65,434.0",suv,Netherlands
+Z4,2022,2.2,218,petrol,Automatic,RWD,50851,7.7,183,"? 65,915.0",convertible,UK
+5 Series,2022,3.2,328,hybrid,Automatic,RWD,33038,6.2,144,"? 59,773.0",sedan,Italy
+X3,2024,2.1,179,diesel,Automatic,AWD,0,6.4,154,"? 63,816.0",suv,Italy
+i3,2022,0,149,electric,Automatic,RWD,0,0,0,"? 60,719.0",hatchback,Netherlands
+Z4,2009,2.6,255,petrol,Automatic,RWD,238619,8.1,181,"? 40,229.0",convertible,France
+X5,2005,3.5,308,diesel,Automatic,AWD,300000,8.2,184,"? 31,156.0",suv,USA
+X3,2005,2.5,255,petrol,Automatic,AWD,300000,8.6,185,"? 21,947.0",suv,Germany
+X5,2021,3.9,302,diesel,Automatic,AWD,71587,8.5,180,"? 67,801.0",suv,Germany
+7 Series,2022,3.7,312,diesel,Automatic,RWD,26493,8.2,191,"? 1,04,582.0",sedan,Turkey
+i3,2019,0,183,electric,Automatic,RWD,88868,0,0,"? 44,058.0",hatchback,Italy
+3 Series,2015,2.1,268,hybrid,Manual,AWD,140044,4.6,0,"? 30,694.0",sedan,Spain
+1 Series,2019,2.5,233,diesel,Automatic,FWD,41622,7,141,"? 30,797.0",hatchback,Italy
+1 Series,2017,2.4,242,petrol,Manual,RWD,108079,8.4,173,"? 24,220.0",hatchback,France
+i3,2023,0,201,electric,Automatic,RWD,0,0,0,"? 56,327.0",hatchback,Spain
+3 Series,2014,3,288,hybrid,Automatic,RWD,119035,5.7,127,"? 31,089.0",sedan,Netherlands
+3 Series,2019,1.9,231,hybrid,Automatic,AWD,115057,5.2,113,"? 32,783.0",sedan,France
+3 Series,2008,2.2,224,hybrid,Manual,AWD,298558,5.1,122,"? 8,307.0",sedan,Netherlands
+3 Series,2010,2.2,159,petrol,Manual,AWD,241164,7.9,161,"? 15,552.0",sedan,Turkey
+5 Series,2007,2.4,229,petrol,Automatic,AWD,64214,8.4,173,"? 38,465.0",sedan,Italy
+3 Series,2013,2.5,263,diesel,Manual,AWD,78345,6.6,131,"? 29,287.0",sedan,Spain
+X1,2021,1.6,206,hybrid,Automatic,AWD,27689,4,82,"? 48,310.0",suv,France
+X1,2014,2.4,223,diesel,Automatic,FWD,223343,6.4,147,"? 20,554.0",suv,Italy
+5 Series,2006,4.4,395,petrol,Automatic,AWD,300000,11.2,250,"? 22,525.0",sedan,USA
+X1,2012,1.8,197,hybrid,Automatic,FWD,189669,4.2,106,"? 24,255.0",suv,France
+3 Series,2013,2.5,252,petrol,Automatic,RWD,156071,8.5,173,"? 24,591.0",sedan,UK
+X3,2008,3.3,301,petrol,Automatic,RWD,300000,9.2,205,"? 25,654.0",suv,USA
+5 Series,2007,3.9,369,petrol,Automatic,RWD,235579,10.5,235,"? 33,569.0",sedan,Germany
+3 Series,2021,1.7,254,hybrid,Unknown,AWD,37936,4.6,120,"? 41,442.0",sedan,Turkey
+5 Series,2022,3.5,386,diesel,Automatic,AWD,31706,9,195,"? 61,854.0",sedan,Spain
+X1,2021,2.4,228,diesel,Automatic,FWD,36059,7.2,157,"? 43,035.0",suv,Spain
+1 Series,2016,3,254,diesel,Automatic,RWD,185192,8.1,195,"? 18,718.0",hatchback,Spain
+X3,2012,3.5,311,hybrid,Automatic,RWD,300000,6,120,"? 31,588.0",suv,Spain
+1 Series,2007,2.6,244,diesel,Manual,FWD,253007,6.6,129,"? 12,144.0",hatchback,UK
+3 Series,2021,2.4,213,petrol,Automatic,RWD,53309,7.8,159,"? 41,672.0",sedan,Italy
+X5,2012,3.9,326,hybrid,Automatic,AWD,34358,6.5,146,"? 56,769.0",suv,Spain
+5 Series,2023,2.5,192,hybrid,Automatic,RWD,23441,5.4,123,"? 63,930.0",sedan,Germany
+3 Series,2012,2.7,247,petrol,Automatic,RWD,172811,8.9,219,"? 23,592.0",sedan,UK
+3 Series,2023,3.3,289,hybrid,Automatic,RWD,1518,5.8,122,"? 53,528.0",sedan,UK
+i3,2011,0,171,electric,Automatic,RWD,151492,0,0,"? 28,066.0",hatchback,Italy
+3 Series,2022,3.1,326,petrol,Automatic,RWD,42299,9.1,200,"? 47,017.0",sedan,USA
+1 Series,2019,2.5,251,petrol,Automatic,RWD,37063,8.4,191,"? 27,578.0",hatchback,Spain
+1 Series,2019,1.9,200,diesel,Automatic,RWD,62239,6.5,148,"? 22,289.0",hatchback,Germany
+1 Series,2018,0,181,petrol,Automatic,RWD,55134,7.8,165,"? 23,270.0",hatchback,Italy
+3 Series,2015,1.9,224,petrol,Automatic,AWD,83861,7.9,169,"? 26,449.0",sedan,Italy
+X3,2018,3.4,253,petrol,Unknown,RWD,91499,10.2,245,"? 49,680.0",suv,Netherlands
+X7,2019,3.6,306,petrol,Automatic,AWD,45060,9.1,195,"? 1,03,120.0",suv,Turkey
+1 Series,2011,2.6,238,diesel,Automatic,RWD,160377,7,150,"? 18,577.0",hatchback,Germany
+X1,2015,0,192,hybrid,Automatic,AWD,129176,4.5,92,"? 25,609.0",suv,Turkey
+1 Series,2015,2.1,208,diesel,Automatic,FWD,145108,6.3,148,"? 17,238.0",hatchback,Spain
+X1,2020,2.4,230,diesel,Automatic,FWD,26488,6.8,128,"? 46,326.0",suv,USA
+1 Series,2017,2.7,254,diesel,Automatic,FWD,110703,7.6,182,"? 19,300.0",hatchback,Turkey
+X3,2023,2.5,277,hybrid,Automatic,AWD,21570,5.5,126,"? 69,229.0",suv,Spain
+X3,2024,2.8,250,hybrid,Automatic,AWD,15551,5.2,102,"? 66,868.0",suv,Spain
+X1,2014,1.8,170,petrol,Automatic,AWD,161623,7.8,169,"? 23,164.0",suv,Turkey
+i4,2012,0,228,electric,Automatic,AWD,201300,0,0,"? 41,012.0",coupe,UK
+3 Series,2019,1.9,234,hybrid,Automatic,RWD,106905,4,94,"? 29,129.0",sedan,Spain
+X3,2024,2.4,232,hybrid,Automatic,RWD,0,5.2,108,"? 66,201.0",suv,Netherlands
+5 Series,2012,2.6,257,petrol,Automatic,AWD,177062,8.8,195,"? 35,566.0",sedan,USA
+Z4,2020,2.4,236,petrol,Automatic,RWD,43037,9.3,192,"? 57,931.0",convertible,Germany
+3 Series,2018,1.8,255,hybrid,Automatic,AWD,50024,4.8,105,"? 39,003.0",sedan,USA
+X1,2016,2.2,256,petrol,Automatic,AWD,151445,8.1,170,"? 32,535.0",suv,USA
+X5,2008,3.8,324,diesel,Automatic,AWD,300000,9.2,205,"? 41,025.0",suv,Spain
+Z4,2007,2.6,240,petrol,Automatic,RWD,200154,8.5,188,"? 26,870.0",convertible,Netherlands
+3 Series,2015,3.4,259,petrol,Manual,AWD,127415,9.9,222,"? 23,509.0",sedan,Italy
+3 Series,2013,3.4,328,diesel,Automatic,RWD,244503,8.1,168,"? 22,112.0",sedan,Italy
+3 Series,2024,2.8,271,petrol,Manual,AWD,13083,9.1,189,"? 51,355.0",sedan,Netherlands
+3 Series,2006,2.3,211,hybrid,Automatic,AWD,267854,5.4,131,"? 14,699.0",sedan,Germany
+X7,2013,3.2,278,petrol,Automatic,AWD,121994,0,260,"? 81,748.0",suv,Germany
+X1,2013,1.8,183,hybrid,Automatic,FWD,180686,4.2,94,"? 16,950.0",suv,Turkey
+1 Series,2019,2.4,293,diesel,Automatic,FWD,127293,7.1,148,"? 24,927.0",hatchback,Germany
+5 Series,2022,2.9,261,hybrid,Automatic,AWD,34355,5.8,126,"? 62,254.0",sedan,USA
+X5,2019,3.1,242,petrol,Automatic,AWD,68267,8.9,219,"? 74,588.0",suv,USA
+X5,2019,4,327,hybrid,Automatic,AWD,84696,7.1,142,"? 69,045.0",suv,France
+X1,2015,2.3,158,petrol,Automatic,AWD,132271,8.5,186,"? 26,493.0",suv,UK
+5 Series,2011,4.1,317,petrol,Automatic,AWD,273658,10.5,0,"? 26,754.0",sedan,Italy
+X5,2024,3.1,217,hybrid,Automatic,AWD,0,6.3,132,"? 92,034.0",suv,Italy
+3 Series,2015,2.1,187,diesel,Automatic,RWD,110569,6.4,153,"? 22,760.0",sedan,Spain
+X1,2012,1.5,122,hybrid,Automatic,FWD,193134,4.6,97,"? 20,342.0",suv,France
+X7,2014,3.7,316,diesel,Automatic,AWD,150647,8.6,182,"? 81,606.0",suv,Spain
+Z4,2014,2.8,256,petrol,Automatic,RWD,83891,9.7,221,"? 54,093.0",convertible,Turkey
+i4,2011,0,215,electric,Automatic,AWD,198082,0,0,"? 41,052.0",coupe,Turkey
+5 Series,2022,3.7,317,diesel,Automatic,AWD,23221,8.7,181,"? 69,675.0",sedan,USA
+X7,2016,4.2,372,diesel,Automatic,AWD,149419,9.8,212,"? 78,334.0",suv,France
+Z4,2017,2.1,154,petrol,Automatic,RWD,127853,8.7,194,"? 41,871.0",convertible,Germany
+X5,2013,4.4,346,diesel,Automatic,AWD,146670,10.5,232,"? 51,857.0",suv,Spain
+X1,2023,2.2,154,petrol,Automatic,AWD,22930,8.4,178,"? 47,405.0",suv,France
+5 Series,2019,2.4,163,hybrid,Automatic,AWD,64921,4.7,99,"? 46,187.0",sedan,UK
+3 Series,2013,3.3,322,petrol,Manual,AWD,150665,9.7,207,"? 19,532.0",sedan,Turkey
+3 Series,2012,2,194,diesel,Automatic,RWD,138332,6.7,134,"? 18,147.0",sedan,Italy
+1 Series,2024,1.9,235,diesel,Automatic,RWD,0,6.6,142,"? 38,216.0",hatchback,USA
+i4,2023,0,432,electric,Automatic,AWD,12562,0,0,"? 96,471.0",coupe,USA
+5 Series,2021,2.5,242,diesel,Unknown,RWD,33102,7.5,154,"? 50,572.0",sedan,Spain
+5 Series,2009,4.1,306,petrol,Automatic,RWD,297551,10,228,"? 29,157.0",sedan,Germany
+X5,2021,3.8,302,petrol,Automatic,AWD,24413,11.2,244,"? 89,821.0",suv,Netherlands
+X3,2006,2.1,177,hybrid,Automatic,AWD,300000,4.6,94,"? 17,571.0",suv,Spain
+Z4,2017,3,260,petrol,Automatic,RWD,151117,0,229,"? 43,539.0",convertible,USA
+X1,2010,1.6,209,petrol,Automatic,AWD,249244,7.6,163,"? 19,978.0",suv,Turkey
+X1,2016,1.8,210,petrol,Automatic,FWD,167975,6.8,155,"? 30,396.0",suv,France
+X5,2008,4.2,368,petrol,Automatic,AWD,201013,11,242,"? 45,546.0",suv,France
+X7,2019,3.1,267,petrol,Automatic,AWD,66878,8.8,214,"? 1,01,760.0",suv,France
+7 Series,2020,4.9,378,hybrid,Automatic,AWD,67675,7.6,168,"? 92,317.0",sedan,Netherlands
+X3,2016,2.6,231,petrol,Automatic,RWD,74501,8.4,0,"? 50,981.0",suv,France
+X5,2017,3.3,248,hybrid,Automatic,AWD,43346,6.1,126,"? 71,463.0",suv,Turkey
+X3,2022,2.1,237,petrol,Automatic,AWD,56725,8.6,185,"? 48,219.0",suv,Turkey
+i7,2013,0,355,electric,Automatic,AWD,179828,0,0,"? 97,608.0",sedan,France
+1 Series,2022,2.1,188,diesel,Automatic,RWD,24230,7.2,167,"? 27,947.0",hatchback,Germany
+5 Series,2013,3.5,298,hybrid,Automatic,AWD,91567,6.3,141,"? 42,575.0",sedan,Turkey
+5 Series,2019,3.5,333,petrol,Automatic,AWD,28923,10.3,226,"? 59,552.0",sedan,France
+3 Series,2008,1.6,151,diesel,Automatic,AWD,235886,5.7,144,"? 10,470.0",sedan,Turkey
+3 Series,2005,2.1,149,petrol,Manual,RWD,170142,7.6,185,"? 13,763.0",sedan,USA
+5 Series,2014,4.3,421,diesel,Automatic,RWD,43612,8.9,201,"? 61,277.0",sedan,Netherlands
+i3,2011,0,204,electric,Automatic,RWD,138178,0,0,"? 34,551.0",hatchback,Italy
+5 Series,2010,2.8,259,hybrid,Automatic,AWD,259642,6,112,"? 25,428.0",sedan,Spain
+1 Series,2018,1.7,192,diesel,Manual,FWD,97619,6.9,160,"? 17,827.0",hatchback,Turkey
+3 Series,2020,3.2,222,diesel,Automatic,AWD,65006,7.9,162,"? 37,656.0",sedan,Germany
+X1,2019,2.1,292,hybrid,Automatic,AWD,59192,5.4,127,"? 43,701.0",suv,Italy
+7 Series,2011,3.9,342,petrol,Automatic,RWD,211683,10.9,253,"? 53,640.0",sedan,Spain
+5 Series,2016,2.4,176,diesel,Automatic,AWD,106659,7.2,159,"? 41,316.0",sedan,USA
+X3,2012,3,255,petrol,Automatic,AWD,214914,8.8,191,"? 41,052.0",suv,France
+1 Series,2020,2.5,230,hybrid,Automatic,FWD,66077,5.2,111,"? 26,482.0",hatchback,Netherlands
+3 Series,2006,2.4,185,hybrid,Automatic,AWD,228880,4.6,81,"? 10,320.0",sedan,Netherlands
+X1,2017,1.9,212,diesel,Automatic,FWD,92714,6.9,151,"? 39,893.0",suv,Netherlands
+3 Series,2023,2.3,244,diesel,Automatic,AWD,11713,6.8,147,"? 44,262.0",sedan,Turkey
+i7,2023,0,418,electric,Automatic,RWD,15738,0,0,"? 1,85,872.0",sedan,France
+X3,2017,2.1,219,diesel,Automatic,AWD,83545,7.4,153,"? 33,677.0",suv,France
+i4,2021,0,343,electric,Automatic,RWD,68629,0,0,"? 85,950.0",coupe,France
+X5,2016,3.5,360,diesel,Automatic,AWD,125864,7.6,153,"? 78,344.0",suv,Netherlands
+X7,2023,4.4,367,diesel,Automatic,AWD,4585,9.7,216,"? 1,40,790.0",suv,Netherlands
+3 Series,2022,2.2,208,hybrid,Automatic,AWD,17194,0,116,"? 41,064.0",sedan,USA
+i7,2022,0,436,electric,Automatic,RWD,18489,0,0,"? 1,83,518.0",sedan,Italy
+X3,2012,3.2,338,petrol,Automatic,RWD,143769,9.7,212,"? 41,583.0",suv,Italy
+X5,2012,4,338,diesel,Automatic,AWD,135597,9.2,219,"? 60,168.0",suv,USA
+5 Series,2022,2.7,261,petrol,Automatic,AWD,23162,0,190,"? 66,413.0",sedan,Netherlands
+5 Series,2007,2.9,227,hybrid,Automatic,AWD,300000,5.9,130,"? 18,934.0",sedan,France
+X1,2018,2,207,hybrid,Automatic,AWD,134564,5.1,116,"? 38,387.0",suv,UK
+X3,2024,2,199,hybrid,Automatic,AWD,3126,4.9,105,"? 54,201.0",suv,Italy
+X5,2024,3.6,394,hybrid,Automatic,AWD,7648,6.2,153,"? 1,08,403.0",suv,USA
+5 Series,2019,4.2,373,petrol,Automatic,RWD,106274,11.6,279,"? 59,861.0",sedan,Netherlands
+X7,2018,3.5,288,hybrid,Automatic,AWD,89040,6.1,144,"? 1,07,824.0",suv,Netherlands
+X1,2019,2.2,184,diesel,Automatic,AWD,85426,6.7,140,"? 37,206.0",suv,Italy
+X1,2008,2,154,diesel,Automatic,FWD,300000,6.3,134,"? 10,657.0",suv,Italy
+X5,2011,4.3,397,petrol,Automatic,AWD,220990,11.2,254,"? 47,408.0",suv,UK
+5 Series,2014,3.6,359,diesel,Automatic,AWD,166784,9.4,219,"? 40,906.0",sedan,Spain
+X7,2011,3.3,267,petrol,Automatic,AWD,254161,9.6,210,"? 66,180.0",suv,Spain
+7 Series,2021,3.5,372,diesel,Automatic,AWD,64177,8.7,215,"? 1,12,801.0",sedan,France
+Z4,2019,2.5,246,petrol,Automatic,RWD,59227,7.9,178,"? 52,823.0",convertible,USA
+X5,2018,3.8,286,hybrid,Automatic,AWD,43979,6.3,136,"? 73,103.0",suv,USA
+i4,2020,0,341,electric,Automatic,AWD,38920,0,0,"? 85,270.0",coupe,UK
+1 Series,2019,2.4,241,diesel,Automatic,FWD,60524,7.3,172,"? 24,180.0",hatchback,France
+3 Series,2016,3.2,329,petrol,Automatic,AWD,141171,9.8,215,"? 33,662.0",sedan,UK
+i4,2021,0,306,electric,Automatic,AWD,33615,0,0,"? 92,014.0",coupe,Turkey
+i3,2019,0,205,electric,Automatic,RWD,89581,0,0,"? 48,351.0",hatchback,USA
+1 Series,2019,2.3,204,hybrid,Automatic,FWD,50423,5.1,110,"? 22,480.0",hatchback,Spain
+X5,2024,3.4,300,petrol,Automatic,AWD,15556,9.3,205,"? 84,455.0",suv,Turkey
+i3,2018,0,172,electric,Automatic,RWD,47635,0,0,"? 44,485.0",hatchback,UK
+1 Series,2021,1.7,221,hybrid,Automatic,FWD,10709,4.5,103,"? 28,950.0",hatchback,Italy
+X3,2021,2.4,216,diesel,Automatic,RWD,55540,7.3,171,"? 56,013.0",suv,France
+1 Series,2009,1.5,152,petrol,Automatic,RWD,183642,7,149,"? 7,810.0",hatchback,Netherlands
+X5,2023,3.4,304,petrol,Automatic,AWD,0,9.3,207,"? 75,364.0",suv,Turkey
+X3,2024,3.5,315,diesel,Automatic,AWD,0,9,195,"? 78,789.0",suv,Italy
+Z4,2011,2.2,175,petrol,Manual,RWD,214958,7.6,182,"? 33,232.0",convertible,USA
+1 Series,2018,1.6,193,hybrid,Unknown,FWD,60839,4.2,86,"? 25,773.0",hatchback,Spain
+X5,2018,3.9,329,petrol,Automatic,AWD,116006,9.7,221,"? 80,722.0",suv,UK
+5 Series,2017,3.6,283,diesel,Automatic,RWD,72791,8.7,186,"? 48,980.0",sedan,UK
+X1,2021,2.4,200,hybrid,Automatic,AWD,32583,4.5,111,"? 42,818.0",suv,UK
+5 Series,2021,3,284,petrol,Automatic,RWD,24131,8,202,"? 63,681.0",sedan,Italy
+X7,2010,4,333,diesel,Automatic,AWD,134355,9.3,193,"? 57,575.0",suv,Spain
+X3,2008,0,201,hybrid,Automatic,RWD,188028,5.8,142,"? 32,536.0",suv,USA
+3 Series,2011,2.5,260,diesel,Automatic,AWD,237395,7,154,"? 13,531.0",sedan,Turkey
+X3,2021,3.4,349,petrol,Automatic,AWD,50857,9.9,221,"? 60,517.0",suv,Spain
+1 Series,2014,2,214,hybrid,Automatic,FWD,191484,4.9,103,"? 15,096.0",hatchback,Italy
+X5,2018,4.3,263,diesel,Automatic,AWD,139420,9.3,194,"? 75,905.0",suv,Germany
+X5,2018,4.1,368,diesel,Automatic,AWD,50100,9.5,200,"? 56,791.0",suv,Turkey
+7 Series,2015,0,442,electric,Automatic,AWD,232980,0,0,"? 75,360.0",sedan,Netherlands
+X7,2008,3.3,257,petrol,Automatic,AWD,228751,8.4,172,"? 49,422.0",suv,Netherlands
+X5,2023,3.6,317,hybrid,Automatic,AWD,0,6.7,129,"? 89,109.0",suv,Netherlands
+X3,2005,2.4,291,hybrid,Automatic,AWD,264248,4.7,105,"? 25,731.0",suv,France
+Z4,2008,2.4,221,petrol,Automatic,RWD,300000,8.7,188,"? 24,178.0",convertible,Italy
+X3,2006,2.3,170,petrol,Automatic,RWD,300000,7,168,"? 19,425.0",suv,Netherlands
+X3,2013,2.2,200,diesel,Automatic,AWD,142353,6.5,138,"? 35,242.0",suv,USA
+1 Series,2021,2.6,226,petrol,Manual,RWD,61284,9,206,"? 27,430.0",hatchback,France
+1 Series,2019,2.7,241,hybrid,Manual,FWD,95320,5.4,136,"? 23,513.0",hatchback,France
+3 Series,2022,2.5,222,diesel,Automatic,RWD,48177,7.5,157,"? 37,529.0",sedan,USA
+X1,2007,2.3,244,petrol,Unknown,FWD,300000,7.8,167,"? 16,094.0",suv,Italy
+5 Series,2021,2.4,197,petrol,Automatic,RWD,52864,8.9,195,"? 54,388.0",sedan,Turkey
+X5,2016,4.2,303,hybrid,Automatic,AWD,155434,6.7,142,"? 63,005.0",suv,Netherlands
+Z4,2023,2.1,222,petrol,Automatic,RWD,21167,7.5,172,"? 69,887.0",convertible,Netherlands
+i4,2016,0,401,electric,Automatic,AWD,128688,0,0,"? 63,658.0",coupe,USA
+i3,2021,0,169,electric,Automatic,RWD,55473,0,0,"? 56,691.0",hatchback,UK
+Z4,2007,2.4,212,petrol,Automatic,RWD,186651,8.5,0,"? 24,117.0",convertible,Turkey
+X1,2023,2.3,266,hybrid,Automatic,AWD,27796,5.3,105,"? 46,879.0",suv,Netherlands
+Z4,2010,2.6,272,petrol,Automatic,RWD,115947,8.8,184,"? 40,309.0",convertible,Netherlands
+3 Series,2018,2.8,308,diesel,Automatic,RWD,129139,8.5,202,"? 38,257.0",sedan,France
+3 Series,2017,3.2,248,hybrid,Automatic,AWD,103974,5.6,119,"? 30,677.0",sedan,Turkey
+X1,2022,0,212,hybrid,Automatic,FWD,15890,4.6,101,"? 40,218.0",suv,Germany
+7 Series,2015,0,305,electric,Automatic,RWD,98831,0,0,"? 76,227.0",sedan,Turkey
+X3,2010,2.2,154,petrol,Automatic,RWD,152374,8.2,167,"? 28,507.0",suv,Italy
+1 Series,2018,2.2,238,petrol,Automatic,RWD,116141,8.8,189,"? 23,125.0",hatchback,Netherlands
+1 Series,2010,2.4,187,petrol,Automatic,FWD,292714,8.1,170,"? 2,713.0",hatchback,UK
+X5,2005,3.3,299,diesel,Automatic,AWD,300000,8.4,0,"? 29,469.0",suv,Italy
+1 Series,2023,2.4,207,diesel,Automatic,FWD,16357,6.4,132,"? 28,131.0",hatchback,Spain
+3 Series,2007,3,307,petrol,Manual,AWD,187627,0,239,"? 21,301.0",sedan,USA
+1 Series,2020,2.8,223,hybrid,Automatic,FWD,74815,5.2,123,"? 22,629.0",hatchback,USA
+X5,2017,4.3,403,petrol,Automatic,AWD,185283,10.3,224,"? 74,208.0",suv,USA
+5 Series,2019,4.1,255,petrol,Automatic,RWD,43994,10.7,226,"? 53,999.0",sedan,Spain
+3 Series,2018,3.2,244,hybrid,Manual,RWD,59738,5.8,143,"? 39,682.0",sedan,Germany
+7 Series,2016,0,325,electric,Automatic,AWD,121155,0,0,"? 76,962.0",sedan,Turkey
+X1,2020,2.4,265,petrol,Automatic,FWD,80067,0,184,"? 38,792.0",suv,Turkey
+5 Series,2023,2.7,263,hybrid,Automatic,RWD,286,5.1,103,"? 73,258.0",sedan,UK
+X7,2013,4.3,353,petrol,Automatic,AWD,196769,10.8,0,"? 78,955.0",suv,USA
+X5,2012,3.2,314,diesel,Automatic,AWD,87156,8.2,184,"? 55,277.0",suv,Netherlands
+X7,2020,4.3,385,diesel,Automatic,AWD,42431,9.3,205,"? 1,16,137.0",suv,USA
+X1,2024,1.8,239,hybrid,Automatic,AWD,18313,4.1,85,"? 54,821.0",suv,Spain
+1 Series,2023,1.7,154,petrol,Automatic,RWD,9269,7.3,158,"? 28,273.0",hatchback,UK
+X7,2009,3.9,377,petrol,Automatic,AWD,229115,11.1,246,"? 72,797.0",suv,USA
+7 Series,2024,3.4,312,diesel,Unknown,RWD,12784,8.9,186,"? 1,20,410.0",sedan,France
+1 Series,2019,2.1,206,petrol,Automatic,FWD,95908,8,179,"? 22,448.0",hatchback,Turkey
+i4,2015,0,342,electric,Automatic,AWD,101244,0,0,"? 59,574.0",coupe,USA
+X3,2020,3.3,251,diesel,Automatic,AWD,91371,8.8,198,"? 49,059.0",suv,Italy
+i4,2013,0,341,electric,Automatic,AWD,173436,0,0,"? 52,416.0",coupe,Turkey
+X3,2008,2.4,230,petrol,Automatic,AWD,194662,8.1,200,"? 26,274.0",suv,Netherlands
+X3,2006,2.6,303,diesel,Automatic,AWD,266376,7.1,154,"? 18,386.0",suv,UK
+i3,2015,0,175,electric,Automatic,RWD,58505,0,0,"? 37,394.0",hatchback,Netherlands
+Z4,2021,2.9,289,petrol,Automatic,RWD,52397,9.1,196,"? 54,010.0",convertible,USA
+X3,2021,3.3,250,petrol,Automatic,AWD,32245,9.8,221,"? 57,998.0",suv,Germany
+i7,2012,0,579,electric,Automatic,AWD,157700,0,0,"? 98,479.0",sedan,France
+1 Series,2022,1.7,193,petrol,Automatic,FWD,20932,8.2,184,"? 29,598.0",hatchback,France
+i4,2013,0,439,electric,Automatic,AWD,246004,0,0,"? 38,093.0",coupe,Spain
+5 Series,2008,3.2,246,petrol,Automatic,AWD,300000,8.7,192,"? 16,257.0",sedan,USA
+X5,2022,4.1,406,hybrid,Automatic,AWD,0,6.5,151,"? 91,594.0",suv,Spain
+1 Series,2022,0,219,petrol,Automatic,FWD,44945,8.5,183,"? 28,810.0",hatchback,UK
+X5,2024,3.9,368,diesel,Automatic,AWD,10991,9.4,224,"? 79,568.0",suv,Germany
+i7,2014,0,526,electric,Automatic,AWD,101213,0,0,"? 1,20,537.0",sedan,France
+X1,2016,2.5,304,petrol,Automatic,AWD,97975,8.4,178,"? 36,310.0",suv,Netherlands
+1 Series,2021,2,193,petrol,Automatic,FWD,14015,7,153,"? 28,149.0",hatchback,Turkey
+i4,2020,0,374,electric,Automatic,AWD,54989,0,0,"? 88,152.0",coupe,Germany
+7 Series,2024,4.8,404,petrol,Automatic,RWD,0,10.9,240,"? 1,13,408.0",sedan,France
+i4,2008,0,296,electric,Automatic,RWD,197223,0,0,"? 36,608.0",coupe,USA
+X3,2024,2.1,237,petrol,Automatic,AWD,0,7.5,0,"? 67,683.0",suv,Germany
+Z4,2024,2.8,256,petrol,Automatic,RWD,0,9,207,"? 74,584.0",convertible,UK
+i3,2005,0,157,electric,Automatic,RWD,183580,0,0,"? 17,319.0",hatchback,Turkey
+1 Series,2024,1.5,148,petrol,Automatic,RWD,3345,7.4,165,"? 29,499.0",hatchback,Netherlands
+X1,2012,1.9,187,petrol,Automatic,FWD,151182,8.7,177,"? 23,839.0",suv,Spain
+X5,2020,3.8,325,hybrid,Automatic,AWD,34381,6.1,124,"? 83,180.0",suv,France
+1 Series,2016,3,251,hybrid,Automatic,RWD,154305,6.1,130,"? 15,800.0",hatchback,Netherlands
+7 Series,2021,0,326,electric,Automatic,RWD,48725,0,0,"? 1,24,617.0",sedan,Turkey
+i7,2019,0,414,electric,Automatic,RWD,43705,0,0,"? 1,51,560.0",sedan,UK
+5 Series,2022,3.1,236,hybrid,Automatic,AWD,30091,6,126,"? 58,990.0",sedan,UK
+3 Series,2019,2.3,186,hybrid,Automatic,RWD,89473,4.6,105,"? 29,671.0",sedan,USA
+1 Series,2011,2.5,305,petrol,Automatic,FWD,178461,8.8,198,"? 12,760.0",hatchback,Italy
+X5,2017,3.4,362,petrol,Automatic,AWD,177613,10.3,234,"? 56,986.0",suv,Turkey
+i7,2024,0,446,electric,Automatic,RWD,6668,0,0,"? 1,80,010.0",sedan,Germany
+5 Series,2011,3.7,361,diesel,Automatic,RWD,300000,9.2,198,"? 30,312.0",sedan,Turkey
+3 Series,2009,2.3,299,petrol,Automatic,AWD,211701,7.6,171,"? 21,028.0",sedan,UK
+i4,2022,0,451,electric,Automatic,AWD,52547,0,0,"? 89,538.0",coupe,France
+1 Series,2009,2.7,215,diesel,Manual,FWD,163847,6.6,148,"? 12,899.0",hatchback,Italy
+X1,2018,2.5,191,petrol,Automatic,AWD,68274,8.4,174,"? 33,521.0",suv,Spain
+X1,2017,1.9,218,petrol,Automatic,AWD,132647,8.6,194,"? 31,553.0",suv,Germany
+i4,2018,0,348,electric,Automatic,AWD,55825,0,0,"? 66,107.0",coupe,Italy
+1 Series,2010,1.7,237,diesel,Manual,FWD,193141,6.4,130,"? 13,676.0",hatchback,Germany
+1 Series,2020,1.7,186,petrol,Automatic,RWD,59712,6.6,149,"? 26,296.0",hatchback,UK
+5 Series,2020,3,293,diesel,Automatic,AWD,68838,7.9,0,"? 59,089.0",sedan,USA
+i4,2020,0,331,electric,Automatic,AWD,21173,0,0,"? 78,047.0",coupe,Turkey
+3 Series,2017,2.8,250,petrol,Manual,AWD,124760,8.7,195,"? 28,192.0",sedan,USA
+1 Series,2019,1.6,147,diesel,Automatic,FWD,92465,6.3,135,"? 19,525.0",hatchback,Turkey
+Z4,2016,2.3,231,petrol,Automatic,RWD,123776,8,184,"? 48,737.0",convertible,USA
+i7,2014,0,629,electric,Automatic,RWD,64749,0,0,"? 1,58,016.0",sedan,UK
+1 Series,2013,2.4,238,petrol,Automatic,RWD,147753,8.1,164,"? 15,919.0",hatchback,USA
+X3,2017,3,244,petrol,Automatic,AWD,188725,10.1,217,"? 44,965.0",suv,USA
+X7,2023,4,359,diesel,Automatic,AWD,20869,9.2,198,"? 1,23,469.0",suv,USA
+5 Series,2021,2.5,222,diesel,Automatic,AWD,16164,7.6,170,"? 57,585.0",sedan,Netherlands
+i7,2015,0,496,electric,Automatic,AWD,130894,0,0,"? 1,33,349.0",sedan,USA
+X7,2018,4.4,404,hybrid,Automatic,AWD,54988,7.1,156,"? 1,10,419.0",suv,USA
+i7,2012,0,614,electric,Unknown,RWD,200780,0,0,"? 1,02,244.0",sedan,Netherlands
+X5,2009,3.9,377,diesel,Automatic,AWD,227239,8.9,204,"? 39,429.0",suv,UK
+X3,2010,3.2,302,diesel,Automatic,RWD,200439,8.1,174,"? 35,145.0",suv,UK
+X1,2011,1.7,131,diesel,Automatic,FWD,97795,6.6,149,"? 24,963.0",suv,Italy
+X1,2023,1.6,180,petrol,Automatic,AWD,20705,7.6,177,"? 49,997.0",suv,Spain
+i7,2006,0,394,electric,Automatic,AWD,216868,0,0,"? 79,221.0",sedan,France
+X5,2014,3.3,289,diesel,Automatic,AWD,221689,7.4,170,"? 68,990.0",suv,Germany
+X3,2023,2.9,247,diesel,Automatic,RWD,2684,7.5,166,"? 58,698.0",suv,Spain
+3 Series,2018,3.5,342,petrol,Automatic,RWD,113465,9.5,231,"? 37,970.0",sedan,Turkey
+X7,2017,3.1,269,petrol,Automatic,AWD,129192,9.4,197,"? 84,594.0",suv,USA
+X1,2024,2.4,264,hybrid,Automatic,FWD,0,4.6,102,"? 59,508.0",suv,UK
+i4,2013,0,334,electric,Automatic,AWD,155337,0,0,"? 51,798.0",coupe,Spain
+5 Series,2008,3.6,244,hybrid,Automatic,RWD,196738,6.6,149,"? 28,391.0",sedan,Italy
+X3,2015,2.3,230,diesel,Automatic,AWD,153055,6.8,142,"? 42,427.0",suv,France
+i4,2020,0,464,electric,Automatic,AWD,59732,0,0,"? 84,906.0",coupe,Netherlands
+3 Series,2017,2.9,240,petrol,Automatic,RWD,101971,9.2,221,"? 30,622.0",sedan,Netherlands
+3 Series,2024,3.4,325,hybrid,Automatic,RWD,0,6.4,144,"? 51,113.0",sedan,France
+1 Series,2021,2.5,259,petrol,Automatic,RWD,51902,8,160,"? 27,321.0",hatchback,Turkey
+1 Series,2020,2,168,petrol,Automatic,FWD,86974,7.6,167,"? 20,226.0",hatchback,USA
+X5,2005,3.9,337,petrol,Automatic,AWD,242389,11.2,235,"? 32,405.0",suv,Netherlands
+X3,2022,0,203,petrol,Automatic,RWD,17546,8.6,195,"? 64,970.0",suv,Germany
+Z4,2008,2.1,261,petrol,Automatic,RWD,212815,7.7,168,"? 21,666.0",convertible,USA
+5 Series,2019,2.1,299,petrol,Automatic,RWD,73698,8.3,174,"? 55,549.0",sedan,Turkey
+X7,2024,4.3,398,petrol,Automatic,AWD,1293,11.3,236,"? 1,17,814.0",suv,Turkey
+X5,2021,3.6,322,diesel,Automatic,AWD,47903,8.2,183,"? 74,167.0",suv,Turkey
+i3,2008,0,129,electric,Automatic,RWD,228320,0,0,"? 17,122.0",hatchback,Turkey
+i7,2024,0,581,electric,Automatic,RWD,0,0,0,"? 1,65,706.0",sedan,Italy
+3 Series,2023,2.9,230,hybrid,Automatic,AWD,6797,5.6,121,"? 40,352.0",sedan,Italy
+X5,2023,4.2,380,hybrid,Automatic,AWD,4558,6.6,160,"? 92,736.0",suv,Turkey
+5 Series,2005,3.8,286,petrol,Automatic,AWD,300000,10.3,229,"? 16,360.0",sedan,Netherlands
+i7,2019,0,553,electric,Automatic,AWD,79475,0,0,"? 1,69,523.0",sedan,France
+5 Series,2019,3.8,359,diesel,Automatic,AWD,50953,8.4,184,"? 48,979.0",sedan,France
+i7,2008,0,422,electric,Automatic,AWD,220927,0,0,"? 74,865.0",sedan,Italy
+7 Series,2024,0,494,electric,Automatic,RWD,0,0,0,"? 1,18,194.0",sedan,UK
+X1,2007,2.3,208,hybrid,Automatic,AWD,166730,4.8,98,"? 20,525.0",suv,Netherlands
+1 Series,2023,2.6,298,diesel,Automatic,FWD,12120,7.7,158,"? 36,268.0",hatchback,Turkey
+1 Series,2022,2.7,262,hybrid,Manual,RWD,40337,5.1,116,"? 26,884.0",hatchback,Turkey
+i4,2008,0,376,electric,Automatic,AWD,177296,0,0,"? 31,031.0",coupe,Turkey
+X7,2015,3.3,352,petrol,Automatic,AWD,208446,9.8,204,"? 84,964.0",suv,France
+1 Series,2021,2.6,285,hybrid,Automatic,RWD,23535,6,139,"? 30,512.0",hatchback,UK
+X7,2007,3.8,361,diesel,Automatic,AWD,297941,9.1,201,"? 51,991.0",suv,Italy
+i3,2023,0,143,electric,Automatic,RWD,19565,0,0,"? 64,167.0",hatchback,UK
+3 Series,2017,2.2,169,hybrid,Manual,RWD,93884,5.2,113,"? 32,832.0",sedan,France
+Z4,2021,2.5,273,petrol,Automatic,RWD,24709,8.9,195,"? 54,280.0",convertible,Turkey
+X7,2019,4.2,302,hybrid,Automatic,AWD,50701,6.5,161,"? 1,03,719.0",suv,Italy
+1 Series,2013,2.7,242,petrol,Automatic,FWD,150971,7.7,173,"? 13,531.0",hatchback,Germany
+X1,2019,2.5,200,hybrid,Automatic,FWD,85866,5.3,121,"? 41,216.0",suv,Germany
+i4,2023,0,257,electric,Automatic,AWD,30779,0,0,"? 75,878.0",coupe,UK
+i7,2008,0,433,electric,Automatic,RWD,231485,0,0,"? 93,270.0",sedan,Italy
+i3,2019,0,180,electric,Automatic,RWD,85719,0,0,"? 46,628.0",hatchback,Netherlands
+X1,2018,1.6,227,petrol,Automatic,AWD,160959,7.9,167,"? 31,030.0",suv,Italy
+X1,2016,2,169,hybrid,Automatic,AWD,153398,4.8,122,"? 26,796.0",suv,UK
+X3,2024,2.8,323,hybrid,Automatic,AWD,0,5.7,125,"? 63,138.0",suv,Italy
+X3,2012,3.4,276,diesel,Automatic,RWD,262863,8.4,194,"? 27,008.0",suv,France
+1 Series,2023,2.9,273,petrol,Automatic,FWD,19968,9.7,220,"? 34,117.0",hatchback,UK
+X5,2022,3.5,327,diesel,Automatic,AWD,54259,8.9,194,"? 77,298.0",suv,France
+X7,2012,3.3,291,hybrid,Automatic,AWD,148956,6.6,147,"? 61,708.0",suv,Turkey
+X3,2018,2.6,299,diesel,Automatic,AWD,52329,7,158,"? 55,322.0",suv,France
+5 Series,2023,3.9,399,hybrid,Automatic,RWD,10154,6.2,146,"? 67,126.0",sedan,USA
+X3,2014,2.4,214,petrol,Automatic,AWD,147390,9,206,"? 38,657.0",suv,UK
+3 Series,2010,3,324,diesel,Manual,AWD,179663,8.2,174,"? 21,241.0",sedan,Italy
+3 Series,2015,1.8,211,hybrid,Automatic,RWD,138268,4.3,90,"? 27,871.0",sedan,Netherlands
+3 Series,2019,3.1,357,petrol,Automatic,AWD,97346,9.3,215,"? 44,570.0",sedan,Netherlands
+3 Series,2021,1.8,208,petrol,Automatic,RWD,67822,7.9,171,"? 37,947.0",sedan,USA
